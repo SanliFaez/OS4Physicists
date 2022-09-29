@@ -19,14 +19,14 @@ For details of the topics covered in each lecture, please look at [the Syllabus]
 
 ## Learning goals:
 By following this course students make an attempt to 
-	+ understand the advantages and pitfalls of open science
-	+ learn to set up and contribute to digital collaborative environments like GitHub repositories
-	+ understand the structure of big collaborations like CERN, and how to optimally function in such an organizational system
-	+ learn to set up a reproducible research environment for their projects
-	+ understand the role, responsibilities and interaction of scientists with scientific communities and the general public
-	+ learn to develop a prototype for a measuring device
-	+ appreciate the business opportunities for scientists outside academia
-	+ understand the current scientific process and career paths.
++ understand the advantages and pitfalls of open science
++ learn to set up and contribute to digital collaborative environments like GitHub repositories
++ understand the structure of big collaborations like CERN, and how to optimally function in such an organizational system
++ learn to set up a reproducible research environment for their projects
++ understand the role, responsibilities and interaction of scientists with scientific communities and the general public
++ learn to develop a prototype for a measuring device
++ appreciate the business opportunities for scientists outside academia
++ understand the current scientific process and career paths.
  
 ## Assessment
 The exercises for this course are team-based. 
@@ -38,13 +38,13 @@ Exercises are partially assessed by peers and partially by course coordinators a
 At the beginning of the course all students will fill in a questionnaire on what they understand about the academic workflow in physics.
 
 At various occasions during the course, students are assessed for the ability to
-	+ participate in a debate on open science and take a standpoint on specific characteristics of this umbrella term
-	+ be able to set up a github project for the course, with an individual portfolio of forks of team projects
-	+ produce an application for joining an international collaboration
-	+ create a workflow for an analytical or experimental exercise that others can reproduce
-	+ give a presentation about their other assignments using skills learned in the course. 
-	+ design and/or develop a prototype
-	+ write a business case for a science-based innovation
-	+ reflect on changes in their understanding of the scientific process in comparison with the pre-course questionnaire
++ participate in a debate on open science and take a standpoint on specific characteristics of this umbrella term
++ be able to set up a github project for the course, with an individual portfolio of forks of team projects
++ produce an application for joining an international collaboration
++ create a workflow for an analytical or experimental exercise that others can reproduce
++ give a presentation about their other assignments using skills learned in the course. 
++ design and/or develop a prototype
++ write a business case for a science-based innovation
++ reflect on changes in their understanding of the scientific process in comparison with the pre-course questionnaire
 	
 	
