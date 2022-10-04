@@ -15,7 +15,7 @@ used by physicists working in- or outside academia in their professional activit
 + from science to business: tech transfer (including open strategies), intelectual property and the academic social contract, scipreneurship
 + the scientific process (grantwriting, scientific careers, searching for a PhD position, professional and entrepreunial careers)
  
-For details of the topics covered in each lecture, please look at [the Syllabus](Syllabus202x.md)
+For details of the topics covered in each lecture, please look at [the Syllabus](Syllabus_202x.md)
 
 ## Learning goals:
 By following this course students make an attempt to 
