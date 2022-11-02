@@ -10,6 +10,8 @@ Open tasks @SanliFaez @erikvansebille
 + Feedback on lecture format
 + Feedback on tutorial format
 
+![ALT Week1](CourseDevelopment/Week1/Chapter1.png)
+
 ## Goal: Why open science, how did we get here? 
 After this week, one is able to describe what open science is and how people are getting there from the current state of science. 
 In a discussion a student can destiginuge between different open science schools and can take a point of view to name consequences of open science. 
