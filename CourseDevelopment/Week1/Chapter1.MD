@@ -115,3 +115,4 @@ Information sources listed per topic
   + https://digital-strategy.ec.europa.eu/en/library/open-innovation-open-science-open-world 
   + https://www.openscience.nl/ 
   + https://elifesciences.org/articles/16800 
+  + https://www.youtube.com/c/CenterforOpenScience
