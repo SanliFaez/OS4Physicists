@@ -10,15 +10,13 @@ Open tasks @SanliFaez @erikvansebille
 + Feedback on lecture format
 + Feedback on tutorial format
 
-![Frontpage](https://github.com/hendelhendel/OS4Physicists/blob/25c496872fc470f2e8701d5c636e4c963edd51f5/CourseDevelopment/Week1/Chapter1.jpg?raw=true)
-
 ## Goal: Why open science, how did we get here? 
 After this week, one is able to describe what open science is and how people are getting there from the current state of science. 
 In a discussion a student can destiginuge between different open science schools and can take a point of view to name consequences of open science. 
 Besides that, the international context and access to scientific knowledge is something a student can form an opinion about. 
 
+![Frontpage](https://github.com/hendelhendel/OS4Physicists/blob/25c496872fc470f2e8701d5c636e4c963edd51f5/CourseDevelopment/Week1/Chapter1.jpg?raw=true)
 
-![Alt Dalle2: “A colorful painting of students attending the first week of the open science course and working together”](/home/hendrik/Downloads/Naamloze_Presentatie.png)
 
 ## Keywords student familiarity check week 1
 Some of the keywords in syllabs.MD are supposed to be new, while some are most probably familiar for students.
@@ -35,17 +33,11 @@ Some of the keywords in syllabs.MD are supposed to be new, while some are most p
 |Opposition and counter arguments||
 
 ## Lecture: Week 1 
-### Topics in lecture
-+ Five schools of Open Science
-+ Current state of the conversation (NL, UU, Physics)
-+ Access and Emancipation
-+ Community-Discipline-Employer
-+ Laboratory life
-+ International context
-+ Trans Disciplinary and interdisciplinary science
+**Topics in lecture**
 
-![ALTtransdisplinary Science](hyperlink)
-![ALTSchoolsOfOpenscience](hyperlink)
+Five schools of Open Science | Current state of the conversation (NL, UU, Physics) | Access and Emancipation|Community-Discipline-Employer | Laboratory life | International context | Trans Disciplinary and interdisciplinary science
+
+
 
 ### Lecture format
 The first lecture will be in person (real life), in the form of 2 TED-talks of 18 minutes. These will be recorded, in order that it can be part of a future fully remote version of the course and/or students can watch it again later. 
@@ -61,9 +53,14 @@ Trans disciplinary and interdisciplinary science
 Laboratory life
 Community discipline employer
 
+![ALTtransdisplinary Science](https://github.com/hendelhendel/OS4Physicists/blob/main/CourseDevelopment/Week1/Transdicilinary.jpg?raw=true)
+![5SchoolsOfOpenScience](https://github.com/hendelhendel/OS4Physicists/blob/main/CourseDevelopment/Week1/SchoolsofOpenscience.jpg?raw=true)
+
+
 
 ## Tutorial: Week 1
 **Topics in tutorial:**
+
 Amateurism  | The reproducibility crisis | Risks and rewards of Open Science|Opposition and counter arguments|Fraud 
 
 ### Tutorial format
@@ -75,8 +72,8 @@ In a later stage in the course, students need to reflect on this day?
 + **Possible deliverables**
 
   Write a group argument/ essay
-Use the question hour as input for an plenary discussion your group will organise (Takes place In a later week!)
-Tape the interviews at glue them together as a podcast/radio show. 
+  | Use the question hour as input for an plenary discussion your group will organise (Takes place In a later week!)
+  | Tape the interviews at glue them together as a podcast/radio show. 
 
 + **Assignment preparation**
 
@@ -99,3 +96,22 @@ Information sources listed per topic
 + Community-Discipline-Employer
   + https://www.osc-nl.com/ 
   + https://www.fosteropenscience.eu/learning/best-practice-in-open-research/#/id/5abe17ffdd1827131b90e618 
+
++ Laboratory life
+  + https://www.apa.org/monitor/2021/11/career-open-science 
+  + https://doi.org/10.2307/j.ctt32bbxc (buy book here)
+
++ International context
+  + https://www.youtube.com/watch?v=I3Wkvx_ZaFo&t=102s
+  + https://unesdoc.unesco.org/ark:/48223/pf0000379949 
+
++ Trans Disciplinary and interdisciplinary science
+  + https://www.nature.com/articles/s41599-020-00598-5#:~:text=Transdisciplinarity%20is%20generally%20defined%20by,pressing%20issues%20still%20requires%20improvement. 
+  + https://www.uu.nl/en/research/transdisciplinary-field-guide/get-started/why-transdisciplinary-research 
+
++ Other
+  + https://www.unesco.org/en/natural-sciences/open-science 
+  + https://www.youtube.com/watch?v=BIHuPGg0YT0 
+  + https://digital-strategy.ec.europa.eu/en/library/open-innovation-open-science-open-world 
+  + https://www.openscience.nl/ 
+  + https://elifesciences.org/articles/16800 
