@@ -11,7 +11,7 @@ Open tasks @SanliFaez @erikvansebille
 + Feedback on tutorial format
 
 ## Goal: public engagement: story-telling and presentation; activism and trust in scientists
-After this week, one understands the role, responsibilities and interaction of scientists with scientific communities and the general public. 
+After this week, students understand the role, responsibilities and interaction of scientists with scientific communities and the general public. 
 Students have to give a presentation about their other assignments using skills learned in the course. 
 Further, the studends are able to formulate their opinion in a discussion on the role a scientist must take in a public debate.
 
