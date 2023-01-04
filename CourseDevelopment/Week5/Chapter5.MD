@@ -74,7 +74,7 @@ To keep the discussion running, the prepered arguments can be trown in.
 
 ++ *A Pitch*\
 Students present a pitch of 3 min, to explain why their bachelor thesis is relevant for society. 
-The first hour can be used for preparations. In the second part, all pitchers come to gether to do their pitch. 
+The first hour can be used for preparations. In the second part, all pitchers come together to do their pitch. 
 \
 \
 **TODO:** How should these assignments be graded?
