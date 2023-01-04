@@ -39,7 +39,7 @@ Some of the keywords in [the syllabus](https://github.com/SanliFaez/OS4Physicist
 Academic social contract\
 Bounds of expertise\
 Naratives and framing\
-trust in science\
+Trust in science\
 Difficulties to reach audience\
 process and outcome\
 trust in science\
