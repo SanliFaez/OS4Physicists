@@ -42,7 +42,7 @@ Naratives and framing\
 Trust in science\
 Difficulties to reach audience\
 process and outcome\
-trust in science\
+Trust in science
 
 **Part 2** Guest lecture & Discussion (60 min)\
 On representation of physics in the Netherlands\
