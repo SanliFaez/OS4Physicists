@@ -16,7 +16,7 @@ Students have to give a presentation about their other assignments using skills 
 Further, the studends are able to formulate their opinion in a discussion on the role a scientist must take in a public debate.
 
 ## Keywords student familiarity check week 5
-Some of the keywords in syllabs.MD are supposed to be new, while some are most probably familiar for students.
+Some of the keywords in [the syllabus](https://github.com/SanliFaez/OS4Physicists/blob/main/Syllabus_202x.md#week-5-public-engagement-story-telling-and-presentation-activism-and-trust-in-scientists) are probably familiar for students, while some others are new.
 
 |**New Concepts**|**Familiar Concepts**|
 |----------------|---------------|
