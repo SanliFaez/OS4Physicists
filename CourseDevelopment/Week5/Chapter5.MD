@@ -27,7 +27,7 @@ Some of the keywords in [the syllabus](https://github.com/SanliFaez/OS4Physicist
 |Bounds of expertise||
 |Academic social contract||
 |Narratives and framing||
-|Difficult to reach audience||
+|Difficult to reach audiences||
 |Process and outcome||
 
 
