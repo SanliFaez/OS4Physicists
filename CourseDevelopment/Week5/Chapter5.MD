@@ -13,7 +13,7 @@ Open tasks @SanliFaez @erikvansebille
 ## Goal: public engagement: story-telling and presentation; activism and trust in scientists
 After this week, students understand the role, responsibilities and interaction of scientists with scientific communities and the general public. 
 Students have to give a pitch about their other assignments using skills learned in the course. 
-Further, the studends are able to formulate their opinion in a discussion on the role a scientist must take in a public debate.
+Further, the students are able to formulate their opinion on the role a scientist must take in society, supported by arguments learned in class. By taking into account different stakes in the public debate, they can individually reflect critically on other viewpoints.
 
 ## Keywords student familiarity check week 5
 Some of the keywords in [the syllabus](https://github.com/SanliFaez/OS4Physicists/blob/main/Syllabus_202x.md#week-5-public-engagement-story-telling-and-presentation-activism-and-trust-in-scientists) are probably familiar for students, while some others are new.
