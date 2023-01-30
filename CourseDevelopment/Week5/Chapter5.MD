@@ -57,7 +57,7 @@ Metaphors | Communicating uncertainty | possible roles of a scientist
 
 ### Tutorial format
 + **Assignment objective**
-Students practice presenting and express their points of view, by reflecting on their role as a future scientist. They will use metaphors to communicate topics of their bachelor research. 
+Students practice presenting and express their points of view, by reflecting on their role as a future scientist or citizen. They will use metaphors to communicate topics of their bachelor research. 
 
 + **Possible Assignments**
 Students can choose between:
