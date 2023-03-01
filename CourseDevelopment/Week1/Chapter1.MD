@@ -44,8 +44,11 @@ The first lecture will be in person (real life), in the form of 2 TED-talks of 1
 
 **TED talk 1** Open science - theory and the OS manifest/political point of view.
 Explanation of the five schools of Open Science
+
 Discussion at the UU and in NL
-Acces and Emancipation
+
+Acces and Emancipation (A link with Week 8 can be made, since in the last week of the course students will study on the preprints and peerreview.)
+
 International Context
 
 **TED talk 2** Practical point of view
@@ -89,8 +92,13 @@ Information sources listed per topic
   + https://doi.org/10.1007/978-3-319-00026-8_2 
 + Current state of the conversation (NL, UU, Physics)
   + https://www.uu.nl/onderzoek/open-science 
-+ Access and Emancipation
++ Access and Emancipation (A link with week 8 can be made here)
   + https://www.rug.nl/library/open-access/blog/open-science-practices-in-different-disciplines-an-interview-with-prof-jan-willem-romeijn-and?lang=en 
+  + https://www.openaccess.nl/nl/creative-commons-licenties 
+  + https://www.openaccess.nl/nl
+  + https://www.openaccess.nl/en/your-role/student
+  + https://www.cos.io/blog/public-goods-infrastructure-preprints-and-innovation-scholarly-communication 
+  + https://www.openaccess.nl/nl/creative-commons-licenties
 
 
 + Community-Discipline-Employer
