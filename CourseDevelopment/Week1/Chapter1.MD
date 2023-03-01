@@ -99,6 +99,7 @@ Information sources listed per topic
   + https://www.openaccess.nl/en/your-role/student
   + https://www.cos.io/blog/public-goods-infrastructure-preprints-and-innovation-scholarly-communication 
   + https://www.openaccess.nl/nl/creative-commons-licenties
+  + + https://www.nature.com/articles/d41586-021-00883-6
 
 
 + Community-Discipline-Employer
