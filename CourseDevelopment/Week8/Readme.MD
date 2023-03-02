@@ -85,16 +85,19 @@ The exact amount of invited professionals, as well as the specific companies and
   + Highschool teachers
   + professors
   + HBO teachers: Hendrik Snijder
-+**Physics/Tech Industry** 
++ **Physics/Tech Industry** 
   + Eg. ASML, Quantum-delta companies, photonics companies, Delft startup centre, Thales,…
-  + A-eskwadraat
+  + A-eskwadraat has connections with companies. 
+  + Please don't ask 'grey'-companies
 + **Banking/Consulting (Non-physics industry):**
   + Eg. DNB, Consultancy firm, ASN-bank, Triodos Bank, 
 + **Politics:**
    + Ask Robbert Dijkgraaf or Jan Terlouw
 
 **Supporting services**
-+ **Data steward UU** 
++ **Data steward UU:**
+  + Data stuward Science faculty
+  + E-Science centrum e.g. ask Carlos Martinez-Ortiz 
 + **Mental health coach/psychologist UU**
 + **Recognition and reward UU**:
   + Ask prof. dr. Paul Boselie (UU) or dr. Stans de Haas (UU)
