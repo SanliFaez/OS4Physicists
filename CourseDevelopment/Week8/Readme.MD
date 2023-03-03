@@ -73,7 +73,7 @@ The covered topics are: Careers in science and beyond | Applying for scientific 
 
 **Grading:** Every students hands in a motivation of their possible career plan in max. 500 words or a mindmap. This will be graded by a pass/fail. The work, handed in, needs to show arguments based on shared knowledge during the lecture or tutorial session. See below how this document is created. 
 
-** The Idea:** In this tutorial professionals from from Industry, academia and institutions are visiting. They will tell the students about their work in an interactive setting, which works as follows. The students will be divided in groups. In different rounds every group will have a speed date with one of the professionals. In this speeddate, the professional will tell something about their work and the students can ask questions. After every round, students have time to adjust their mind map, witch they **prepared at home**. In the end students have to hand in their mind maps. See step-by-step explanation below, for two possibilities. 
+** The Idea:** In this tutorial professionals from from Industry, academia and institutions are visiting. They will tell the students about their work in an interactive setting, which works as follows. The students will be divided in groups. In different rounds every group will have a speed date with one of the professionals. In this speeddate, the professional will tell something about their work and the students can ask questions. After every round, students have time to adjust their mind map, witch they **prepared at home**. In the end students have to hand in their mind maps. See step-by-step explanation below, for 3 possibilities of working with experts. 
 
 The exact amount of invited professionals, as well as the specific companies and institutions, need to be determined in preparation before the lecture. However, to cover all topics, it is important that at least an ambassador of every **potential job directions** and **Supporting services** below can be present to discuss the subjects in brackets. In this way, students can broaden their view on potential jobs in or outside science. Possible parties and/or people are sub-listed. Beside having knowledge about the work-field, every visiting professional have to bring a typical CV for that field. Also one needs to know the do’s and don’ts for those who consider this career-path.
 
@@ -105,12 +105,18 @@ The exact amount of invited professionals, as well as the specific companies and
   + Ask prof. dr. Paul Boselie (UU) or dr. Stans de Haas (UU)
 + **Career service UU**
 
-**Step-by-step**: Mindmap - Not so much time scenario
+**Step-by-step**: Mindmap - Not so much time scenario 1
 + step 0: Lecture
 + step 1. Speed dating in groups with professionals. Students can ask questions, take notes and they use  active listening techniques: https://www.mindtools.com/a85f8yd/listening-skills-infographic 
 + step 2: After every speed date, students have time to adjust their prepared mind map. 
 
-**Step-by-Stepp**: Mindmap & Elevator Pitch - Plenty of time scenario
+**Step-by-step**: Mindmap - Not so much time scenario 2
+In this scenario, the visiting professionals don’t have time to stay long, or not enough professionals were able to visit. Therefore the speed dating will be replaced by a general short presentation of each profesional followed up by Q&A. This can be beneficial in terms of time-efficiency, but may be less interactive. 
++ step 0: Lecture
++ step 1. Instead of speed dating in groups with professionals. The professionals will give a short presentation. Students can ask questions, take notes and they use  active listening techniques: https://www.mindtools.com/a85f8yd/listening-skills-infographic 
++ step 2: After every speed date, students have time to adjust their prepared mind map.
+
+**Step-by-Step**: Mindmap & Elevator Pitch - Plenty of time scenario
 + Step 0,1,2 above.
 + step 3: Every student will prepare an elevator pitch Individually.They will explain in 30 sec. what career path of the professionals talked with, fits their needs or why they don’t want any of it. Every pitch is 30 seconds maximum and based on the (adjusted) mindmap. Students have to use arguments based on what they learned in step 1.
 + Step 4: After the preparations, Students gather at the professional in their field of interest and perform the pitch in front of the other gathered students. The listening audience (other students+the professional) write down the main arguments the presenter is using. Written in keywords and provided with feedback if needed. (Note: If there are too many people for a specific discipline, one can pitch in the original groups.)
