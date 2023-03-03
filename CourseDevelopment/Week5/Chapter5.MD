@@ -41,7 +41,6 @@ Bounds of expertise\
 Naratives and framing\
 Trust in science\
 Difficulties to reach audience\
-process and outcome\
 Trust in science
 
 **Part 2** Guest lecture & Discussion (60 min)\
