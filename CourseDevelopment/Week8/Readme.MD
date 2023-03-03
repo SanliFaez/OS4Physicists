@@ -11,7 +11,7 @@ Open tasks @SanliFaez @erikvansebille
 + Feedback on lecture format
 + Feedback on tutorial format
 
-## Goal: open design and open hardware; prototyping? 
+## Goal: The scientific process, beyond the PhD
 
 Dalle2 & @hendelhendel: A grant proposal and money for science, while a duck is doing research in her lab.
 ![eendjefunding](https://user-images.githubusercontent.com/93695286/222175974-54ffc694-d1b4-4e7b-bdd7-7f9d8c94f2d8.png)
@@ -58,14 +58,16 @@ Science in transition
 DORA, 
 Grant writing (a hint to data stewardship covert by tutorial can be made, )
 How to write a successful grant application? 
-What is traditional
-What is expected to be new/ what will be the shift of focus in grant proposals in the (near) future?
+What is typically in a grant application now a days? 
+Will there be a shift of focus in grant proposals in the (near) future?
 See below for references.
 
 
 ## Tutorial: Week 8 Tutorial: Future (Scientific) Job Information Market. 
 **Topics in tutorial:**
-The covered topics are: Careers in science and beyond | Applying for scientific positions | Data stewardship | the PhD advantage | Recognition and rewards | Mental | health in academia | CV and applications. 
+The covered topics are: Careers in science and beyond | Applying for scientific positions | Data stewardship | the PhD advantage* | Recognition and rewards | Mental | health in academia | CV and applications. 
+
+(*) The advantage of having a PhD compared to not having a PhD in the rest of somebody's Career.
 
 **Goal:** After this tutorial students have an overview of possible career paths. They can formulate their preferences briefly. The ultimate goal is to let students think about their future career (in science).
 
