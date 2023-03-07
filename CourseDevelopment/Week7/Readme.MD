@@ -14,7 +14,9 @@ Open tasks @SanliFaez @erikvansebille
 ## Goal: From science to business - tech transfer (including open strategies), intellectual property and the academic social contract, sci preneurship
 
 
-Dalle2 & @hendelhendel: .
+Dalle2 & @hendelhendel: A duck presenting an open science business plan
+![image](https://user-images.githubusercontent.com/93695286/223468757-18330f56-0126-4374-b01e-678c7bd303f3.png)
+
 
 
 ## Keywords student familiarity check week 8
