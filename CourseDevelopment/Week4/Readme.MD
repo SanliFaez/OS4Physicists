@@ -63,11 +63,11 @@ Data structures and data plans | Best practices in data visualization | GDPR and
 
 **Students Preparation:** See lecture preparation
 
-**Grading:** The documents will be handed in by forking a Github page. Here students create a folder with their own name, and add their documents in a document structure. In a README. MD, students explain their structure briefly. This will be graded with a pass/fail
-After uploading their documents they will merge their fork with the original by a pull requist. Note: Merging and forking, must be done in a specific order of students.
+**Grading:** Students hand 3 things: 1. their document structure, 2. project documents 3. the reproduction results of other students project. Everything will be be handed in by a pull request on the course's Github page. In this request, students create a folder with their own name, and add per task their hand-ins. In a README. MD, students explain briefly what they handed in. Not everything has to be perfect, but if all the steps are taken seriously, students can get a pass.
 
 **The Idea:** 
-+ **Create documents and a folder structure**
+
++ **1. Create documents and a folder structure**
   + Create a folder on your computer and call it, STUDENTNUMBER_WEEK4
   + The goal of this exercise is to create a folder structure inside this new folder
   + Create a folder structure as described in box 1 above. Not every step or document in this list can be made, instead create a dummy document. This exercise is to practise good practises and to see all the steps. For example, 3.collaboration.b, can be an empty to-do list in the form of an MD file. When this folder structure is on a repository, one can fork and pull this to-do document to make changes. 
@@ -78,22 +78,44 @@ Wilson G, Bryan J, Cranston K, Kitzes J, Nederbragt L, et al. (2017) Good enough
 
 
 
-+ **Prepare a systematic review**
-  + Students pick a topic which is relevant for them. Then they write down a search query in google scholar. See: https://guides.library.ucsc.edu/c.php?g=745384&p=5361954
-  + Download the first 100 articles in your search queries and store them in Zotero by entering DOI's
-  + Download ASReview: https://asreview.nl/
-  + Upload The zotero database in ASReview and scan 6 articles on relevance based on their abstract.
-  + After that, ASReview will generate an order of articles for you. Go through these ordered articles and stop when articles are not relevant anymore.
-  + The resulting articles, i.e., the first few, will be the articles you will study in a systematic review.
++ **2. Project**
+    + In the just created folder structure, students can store project documents. 
+    + They are free to do any project they like, which is doable in the tutorial time. Also the project has to be reproducable, so complicated codes, exotic program's etc. are not alowed. 
+    + The TA has to approve the project. 
 
-+ **Create a python environment**
-    + Fork the course repository
-    + Create a folder called, STUDENTNUMBER_ENV
-    + Create a python environment, where you install a package. For example, PYQT5 can be installed. This is a package, used often in experimental physics and is never installed as a standard. 
-    + Create a new python file in this environment and Create something simple with it. Want to do something more advanced? See for example: https://realpython.com/python-pyqt-gui-calculator/ 
-    + Or use https://www.youtube.com/watch?v=FVpho_UiDAY to build a GUI
-    + Upload your environment and your code at the forked repository. 
-    + Finish with a pull request.
+    + **Example project: Prepare a systematic review and write a reproduction manual**
+        + Students pick a topic which is relevant for them. Then they write down a search query in google scholar. See: https://guides.library.ucsc.edu/c.php?g=745384&p=5361954
+        + Download the first 100 articles in your search queries and store them in Zotero by entering DOI's
+        + Download ASReview: https://asreview.nl/
+        + Upload The zotero database in ASReview and scan 6 articles on relevance based on their abstract.
+        + After that, ASReview will generate an order of articles for you. Go through these ordered articles and stop when articles are not relevant anymore.
+        + The resulting articles, i.e., the first few, will be the articles you will study in a systematic review.
+        + For reproducability think of: What choices did I made, What keywords did I used, .. etc? A reproduction should give the same resulting articles. 
+        + Are there constrains or systematic errors in the Systematic Review process? (Hint: is Googles ranking for everybody the same?)
+
+    + **Example project: Create a python environment to run a script and write a reproduction manual**
+        + Create a pull request on the course Githubpage.
+        + Create a folder called, STUDENTNUMBER_ENV
+        + Create a python environment, where you install a package. For example, PYQT5 can be installed. This is a package, used often in experimental physics and is never installed as a standard. 
+        + If PyQT is not relevant for you, or a bit to advanced, use Pandas, Numpy and matplotlib to do a simple data manipulation and print some graphs.
+        + Create a new python file in this environment and Create something simple with it. Want to do something more advanced? See for example: https://realpython.com/python-pyqt-gui-calculator/ 
+        + Or use https://www.youtube.com/watch?v=FVpho_UiDAY to build a GUI
+        + If PyQT is not relevant for you, or a bit to advanced(!), use Pandas, Numpy and matplotlib to do a simple data manipulation and print some graphs
+        + Upload your environment and your code at the forked repository. 
+        + Finish with a pull request.
+        + Note, setting up an evironment can be hard for the first time: 
+            + Open command window and use commands as below
+            + see: https://Docs.Conda.Io/Projects/Conda/En/4.6.0/_Downloads/52a95608c49671267e40c689e0bc00ca/Conda-Cheatsheet.Pdf
+            + Commands example
+            ![image](https://user-images.githubusercontent.com/93695286/223751600-37c678b2-21ea-4223-b715-c9793965e6ce.png)
+
+
+
++ **3. ReproduceReproduceReproduceReproduce**
+    + After setting up your folder structure and adding your project documents, other students have to reproduce your results
+    + Use the reproducibility feedback as a guide.
+    + Pull your reproduced answers in the projects github folders. 
+
 
 ## Information Sources / Bibliography
 Best practises
