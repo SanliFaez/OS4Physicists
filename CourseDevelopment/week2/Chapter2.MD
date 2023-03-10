@@ -88,4 +88,5 @@ This repository can be created every year again or it can be a growing repositor
   + Expert on Community managemen?
 + Project management and Getting Things Done (GTD)
   + https://gettingthingsdone.com/resources/ 
-
++ Introduction to Github 
+  + https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV
