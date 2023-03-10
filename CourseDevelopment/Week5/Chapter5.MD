@@ -86,12 +86,14 @@ The first hour can be used for preparations. In the second part, all pitchers co
 Information sources listed per topic
 + How storytelling works
 + Science communication and journalism
+  + Ted talk on the use of powerpoint: https://www.youtube.com/watch?v=Iwpi1Lm6dFo
+  + The mis use of colors in science: https://www.nature.com/articles/s41467-020-19160-7 
 + Activism
 + trust in science
 + Bounds of expertise
 + academic social contract 
-++ https://doi.org/10.1080/00091383.2022.2006562 
-++https://link.springer.com/chapter/10.1007/978-94-6209-746-9_4 
+  + https://doi.org/10.1080/00091383.2022.2006562 
+  + https://link.springer.com/chapter/10.1007/978-94-6209-746-9_4 
 + Narratives and framing
 + Difficult to reach audience
 + process and outcome
