@@ -1,0 +1,46 @@
+# OS4Physicists
+Course Description for OSIRIS 
+
+Title: Open Science for Physicists
+ID: ns-ph500m
+
+## Course goal 
+In Open Science for Physicists (OS4Phys), students evaluate the best practices, concepts and conditions 
+used by physicists working in- or outside academia in their professional activities and workflow.
+
+## Learning goals:
+By following this course students make an attempt to 
+1. understand the advantages and pitfalls of open science
+2. learn to set up and contribute to digital collaborative environments like GitHub repositories
+3. understand the structure of big collaborations like CERN, and how to optimally function in such an organizational system
+4. learn to set up a reproducible research environment for their research projects
+5. understand the role, responsibilities, and interactions of scientists within the scientific communities and with the general public
+6. learn to develop a prototype for a measuring device
+7. appreciate the business opportunities for scientists outside academia
+8. understand the current scientific process and career paths.
+
+During 8 weeks, students will listen to lectures, participate in team discussions, and perform team projects related to the following main topics:
+ 
+1. why open science, how did we get here?  
+2. setting up a collaborative environment (readme, templates, community rules, version control, licensing and credit)
+3. big science (CERN, VIRGO, NASA) and citizen science: scale vs precision 
+4. reproducibility: documentation for reproducibility and data storage
+5. public engagement: story-telling and presentation; activism and trust in scientists
+6. open design and open hardware; prototyping
+7. from science to business: modes of technology transfer, intelectual property and the academic social contract; scipreneurship
+8. the scientific process (grantwriting, scientific careers, searching for a PhD position, professional and entrepreunial career)
+
+## Examination and Assessment
+The assignments for this course are team-based and will be spread over all the lectures. 
+Teams will be reshuffled for each exercise so that pass/fail is individually determined by collecting a basket of satisfactory project results.
+Exercises are partially assessed by peers and partially by the course coordinators and lecturers.
+
+Final assessment: pass/fail
+
+## Attendance: necessary
+
+## Course Materials: All materials for this course are open access and will be provided during the course
+
+## Teachers:
+Course coordinator 2023-24: Sanli Faez
+Other teachers: Erik van Sebille
