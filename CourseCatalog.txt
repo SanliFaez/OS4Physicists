@@ -9,7 +9,7 @@ In Open Science for Physicists (OS4Phys), students evaluate the best practices, 
 used by physicists working in- or outside academia in their professional activities and workflow.
 
 ## Learning goals:
-By following this course students make an attempt to 
+After following this course, students will
 1. understand the advantages and pitfalls of open science
 2. learn to set up and contribute to digital collaborative environments like GitHub repositories
 3. understand the structure of big collaborations like CERN, and how to optimally function in such an organizational system
@@ -31,13 +31,13 @@ During 8 weeks, students will listen to lectures, participate in team discussion
 8. the scientific process (grantwriting, scientific careers, searching for a PhD position, professional and entrepreunial career)
 
 ## Examination and Assessment
-The assignments for this course are team-based and will be spread over all the lectures. 
-Teams will be reshuffled for each exercise so that pass/fail is individually determined by collecting a basket of satisfactory project results.
+The assignments for this course are team-based and will be related to the lectures. 
+Teams will be reshuffled for each exercise so that pass/fail is individually determined when project results are sufficient.
 Exercises are partially assessed by peers and partially by the course coordinators and lecturers.
 
 Final assessment: pass/fail
 
-## Attendance: necessary
+## Attendance: compulsory
 
 ## Course Materials: All materials for this course are open access and will be provided during the course
 
