@@ -90,4 +90,5 @@ This repository can be created every year again or it can be a growing repositor
   + https://gettingthingsdone.com/resources/ 
 + Version control
   +  Blischak JD, Davenport ER, Wilson G (2016) A Quick Introduction to Version Control with Git and GitHub. PLOS Computational Biology 12(1): e1004668. https://doi.org/10.1371/journal.pcbi.1004668 
-
++ Introduction to Github 
+  + https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV
