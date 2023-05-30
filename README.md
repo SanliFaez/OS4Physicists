@@ -11,8 +11,8 @@ The topics for each week are
 2. setting up a collaborative environment (readme, templates, community rules, version control, licensing and credit)
 3. big science (CERN, VIRGO, NASA), scale vs precision (for citizen science)
 4. reproducibility: documentation for reproducibility (and data storage)
-5. public engagement: story-telling and presentation; activism and trust in scientists
-6. open design and open hardware; prototyping
+5. open design and open hardware; prototyping
+6. public engagement: story-telling and presentation; activism and trust in scientists
 7. from science to business: tech transfer (including open strategies), intelectual property and the academic social contract, scipreneurship
 8. the scientific process (grantwriting, scientific careers, searching for a PhD position, professional and entrepreunial careers)
 
@@ -24,8 +24,8 @@ By following this course students make an attempt to
 2. learn to set up and contribute to digital collaborative environments like GitHub repositories
 3. understand the structure of big collaborations like CERN, and how to optimally function in such an organizational system
 4. learn to set up a reproducible research environment for their projects
-5. understand the role, responsibilities and interaction of scientists with scientific communities and the general public
-6. learn to develop a prototype for a measuring device
+5. learn to develop a prototype for a measuring device
+6. understand the role, responsibilities and interaction of scientists with scientific communities and the general public
 7. appreciate the business opportunities for scientists outside academia
 8. understand the current scientific process and career paths.
 
