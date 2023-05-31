@@ -13,8 +13,8 @@ The topics for each week are
 4. reproducibility: documentation for reproducibility (and data storage)
 5. open design and open hardware; prototyping
 6. public engagement: story-telling and presentation; activism and trust in scientists
-7. from science to business: tech transfer (including open strategies), intelectual property and the academic social contract, scipreneurship
-8. the scientific process (grantwriting, scientific careers, searching for a PhD position, professional and entrepreunial careers)
+7. from science to business: tech transfer (including open strategies), intellectual property and the academic social contract, scipreneurship
+8. the scientific process (grantwriting, scientific careers, searching for a PhD position, professional and entrepreneurial careers)
 
 For details of the topics covered in each lecture, please look at [the Syllabus](Syllabus_202x.md)
 
@@ -29,14 +29,14 @@ By following this course students make an attempt to
 7. appreciate the business opportunities for scientists outside academia
 8. understand the current scientific process and career paths.
 
-Note that each learnign goal maps direclty onto the equivalent topic above.
+Note that each learning goal maps directly onto the equivalent topic above.
 
 ## Assessment
 The exercises for this course are team-based. 
 Teams will be reshuffled for each exercise so that pass/fail is individually determined by collecting a basket of satisfactory project results.
 Exercises are partially assessed by peers and partially by course coordinators and lecturers.
 
-### For testing achivement of the learning goals.
+### For testing achievement of the learning goals.
 
 At the beginning of the course all students will fill in a questionnaire on what they understand about the academic workflow in physics.
 
@@ -50,4 +50,9 @@ At various occasions during the course, students are assessed for the ability to
 + write a business case for a science-based innovation
 + reflect on changes in their understanding of the scientific process in comparison with the pre-course questionnaire
 	
-	
+## Scheduling
+Open Science for Physicists will run in block 1, and is scheduled on every Monday morning from 9:00-12:45, between 11 September and 30 October. 
+The venue is the [Learning Plaza](https://www.uu.nl/en/education/future-learning-spaces/learning-spaces/learning-plaza) in the Minnaert building Canteen, which is set up as a Future Learning Space. 
+
+## Course materials
+The course materials will be made available on BlackBoard, and are updated during the course.
