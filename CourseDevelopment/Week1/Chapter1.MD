@@ -12,14 +12,14 @@ Open tasks @SanliFaez @erikvansebille
 
 ## Goal: Why open science, how did we get here? 
 After this week, one is able to describe what open science is and how people are getting there from the current state of science. 
-In a discussion a student can destiginuge between different open science schools and can take a point of view to name consequences of open science. 
+In a discussion a student can distinguish between different open science schools and can take a point of view to name consequences of open science. 
 Besides that, the international context and access to scientific knowledge is something a student can form an opinion about. 
 
 ![Frontpage](https://github.com/hendelhendel/OS4Physicists/blob/25c496872fc470f2e8701d5c636e4c963edd51f5/CourseDevelopment/Week1/Chapter1.jpg?raw=true)
 
 
 ## Keywords student familiarity check week 1
-Some of the keywords in syllabs.MD are supposed to be new, while some are most probably familiar for students.
+Some of the keywords in syllabus.MD are supposed to be new, while some are most probably familiar for students.
 
 |**New Concepts**|**Familiar Concepts**|
 |----------------|---------------|
@@ -47,7 +47,7 @@ Explanation of the five schools of Open Science
 
 Discussion at the UU and in NL
 
-Acces and Emancipation (A link with Week 8 can be made, since in the last week of the course students will study on the preprints and peerreview.)
+Access and Emancipation (A link with Week 8 can be made, since in the last week of the course students will study on the preprints and peer review.)
 
 International Context
 
@@ -69,8 +69,9 @@ Amateurism  | The reproducibility crisis | Risks and rewards of Open Science|Opp
 ### Tutorial format
 + **Assignment objective**
 
-  During the first tutorial session there are some OS experts in the room. Let’s say a number of N experts, then, the students are also divided in N groups. Together with their group, they will make their first steps in learning about open science. Each group will talk with all of the experts in such a way that the students can ask questions about the topics below. To process the information, every group can choose between one of the deliverables below. 
-In a later stage in the course, students need to reflect on this day? 
+  During the first tutorial session there are some OS experts in the room. Let’s say a number of N experts, then, the students are also divided in N groups. Together with their group, they will make their first steps in learning about open science. Each group will talk with all of the experts in such a way that the students can ask questions about the topics below. To process the information, every group can choose between one of the deliverables below.
+  The students will draw up a mindmap of their ideas and ambitions for the course, based on the information they got from the experts.
+  During the final tutorial, students will reflect on this mindmap and see if they have changed their mind about the topics.
 
 + **Possible deliverables**
 
