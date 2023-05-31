@@ -63,7 +63,10 @@ Students can choose between:
 ++ *A plenary discussion*\
 Students are devided in groups of 8. In the first hour of the tutorial session, each group will prepare 5 statements for a plenary debate. 
 Possible statements could be: ...\
-**TODO:** what type of questions need to be answerd?\
+- Scientists should never work with industry partners
+- Scientists should stay away from politics
+- Every scientists should be able to explain their research to a fourteen-year-old high-school student
+
 Students should formulate arguments for and against every statement.\
 
 In the second hour of the tutorial all statements go in a (virtual) jar. Five of them will be selected at random.
