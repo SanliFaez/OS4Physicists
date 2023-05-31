@@ -36,7 +36,7 @@ Dalle2 & @hendelhendel: the production of science done by a real duck using docu
 
 
 ## Lecture: Week 4
-**Topics in lecture** An overview of best practices on documentation for reproducibility, as well as sharing of open data.
+**Topics in lecture** An overview of best practices on documentation for reproducibility, as well as sharing of open data and open results.
 
 ### Lecture format 
 **Goal:**  After this lecture students have an overview of best practices in documenting a project. They will also be able to assess what the best route is for them to publish data under FAIR principles.
@@ -134,7 +134,8 @@ GDPR
 Systematic review
 + https://asreview.nl/
 
-Open and FaAIR data
+Open and FAIR data
 + https://fairsharing.org/FAIRsharing.WWI10U
 + https://dmeg.cessda.eu/Data-Management-Expert-Guide/6.-Archive-Publish/Data-publishing-routes
 + http://opendatahandbook.org/guide/en/
++ https://www.cos.io/initiatives/top-guidelines
