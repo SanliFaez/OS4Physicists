@@ -64,7 +64,7 @@ Students can choose between:
 Students are devided in groups of 8. In the first hour of the tutorial session, each group will prepare 5 statements for a plenary debate. 
 Possible statements could be: ...\
 **TODO:** what type of questions need to be answerd?\
-For every statement, their should be arguments formulated aganst it and in favor of the statement.\
+Students should formulate arguments for and against every statement.\
 
 In the second hour of the tutorial all statements go in a (virtual) jar. Five of them will be selected at random.
 After that, the group bringing in this statement will introduce it in a few words and the debate wil start (10 min). 
