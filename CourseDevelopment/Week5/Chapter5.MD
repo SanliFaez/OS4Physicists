@@ -61,7 +61,7 @@ Students practice presenting and express their points of view, by reflecting on 
 + **Possible Assignments**
 Students can choose between:
 ++ *A plenary discussion*\
-Students are devided in groups of 8. In the first our of the tutorial session, each group will prepare 5 statements for a plenary debate. 
+Students are devided in groups of 8. In the first hour of the tutorial session, each group will prepare 5 statements for a plenary debate. 
 The statements should anwer questions such as: ...\
 **TODO:** what type of questions need to be answerd?\
 For every statement, their should be arguments formulated aganst it and in favor of the statement.\
