@@ -45,7 +45,7 @@ Trust in science
 
 **Part 2** Guest lecture & Discussion (60 min)\
 On representation of physics in the Netherlands\
-Lecture by e.g. Julia Cramer (Leiden), followed up by a plenary discussion.
+Lecture by e.g. [Julia Cramer (Leiden University)](https://www.universiteitleiden.nl/en/staffmembers/julia-cramer#tab-1), followed up by a plenary discussion.
 
 
 ## Tutorial Week 5: What is the role of a scientist in society?\
