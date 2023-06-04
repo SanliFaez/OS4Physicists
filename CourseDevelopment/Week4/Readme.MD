@@ -32,6 +32,7 @@ Dalle2 & @hendelhendel: the production of science done by a real duck using docu
 |Scripting||
 |Compatibility||
 |Dockers-Virtual Environments-Pinning||
+|[Open Government Act (Wet Open Overheid)](https://business.gov.nl/regulation/freedom-of-information/)||
 
 
 ## Lecture: Week 4
