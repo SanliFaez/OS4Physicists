@@ -114,6 +114,7 @@ Information sources listed per topic
 + International context
   + https://www.youtube.com/watch?v=I3Wkvx_ZaFo&t=102s
   + https://unesdoc.unesco.org/ark:/48223/pf0000379949 
+  + https://peerj.com/preprints/2689v1/
 
 + Trans Disciplinary and interdisciplinary science
   + https://www.nature.com/articles/s41599-020-00598-5#:~:text=Transdisciplinarity%20is%20generally%20defined%20by,pressing%20issues%20still%20requires%20improvement. 
