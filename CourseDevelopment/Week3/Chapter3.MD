@@ -125,6 +125,7 @@ Information sources listed per topic
 + **Big-science collaborations**
   ++ https://www.bigscience.nl/en/ilo-net/mission
   ++ https://en.wikipedia.org/wiki/Big_science 
+  ++ https://openknowledgemaps.org
   ++ https://www.criticalearth.eu/
   ++ https://www.ipcc.ch/
   ++ https://www.virgo-gw.eu/
@@ -143,5 +144,5 @@ Information sources listed per topic
   ++ https://www.rathenau.nl/en/science-figures/policy-and-structure/infrastructure-knowledge/governance-science
 
 + **Relativism of big, Climate impacts and transformation**
-  ++ Speaker from the imao ?
+  ++ Speaker from the IMAU?
 
