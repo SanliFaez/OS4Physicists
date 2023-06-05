@@ -88,6 +88,7 @@ The first hour can be used for preparations. In the second part, all pitchers co
 ## Information Sources / Bibliography
 Information sources listed per topic
 + How storytelling works
+  + Why storytelling is more trustworthy than presenting data: https://www.youtube.com/watch?v=Ez5yS4Q5ASA 
 + Science communication and journalism
   + Ted talk on the use of powerpoint: https://www.youtube.com/watch?v=Iwpi1Lm6dFo
   + The mis use of colors in science: https://www.nature.com/articles/s41467-020-19160-7 
