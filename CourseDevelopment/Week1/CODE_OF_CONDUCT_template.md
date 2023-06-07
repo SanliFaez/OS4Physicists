@@ -29,7 +29,7 @@ Apart from the code of conduct, all participants in this course must follow thes
 
 ### Participation Guidelines
 
-When participating in OS4P course, respect the Utrecht University guideline for [academic and scientific integrity](https://www.uu.nl/en/files/netherlands-code-of-conduct-for-research-integrity2018ukpdf) and [code of conduct](https://www.uu.nl/en/files/codeofconductuuenpdf). These guidelines cover our behaviour as participants, mentors, experts, staff, volunteers, and anyone else involved in making this course possible.
+When participating in OS4P, respect the Utrecht University guideline for [academic and scientific integrity](https://www.uu.nl/en/files/netherlands-code-of-conduct-for-research-integrity2018ukpdf) and [code of conduct](https://www.uu.nl/en/files/codeofconductuuenpdf). These guidelines cover our behaviour as participants, mentors, experts, staff, volunteers, and anyone else involved in making this course possible.
 
 ### How to treat each other
 
