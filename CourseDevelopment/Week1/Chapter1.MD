@@ -1,4 +1,4 @@
-# Open Science for Physicists, Lecture 1
+# Open Science for Physicists, Lecture 1, Introduction
 
 + Last updated Date: 05/06/2022
 + Lecturer: @SanliFaez 
