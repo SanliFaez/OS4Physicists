@@ -1,6 +1,6 @@
 # CODE OF CONDUCT 2023
 
-This code of conduct will been decided by cohort participants and is enacted from DDMMYYYY.
+This code of conduct will been decided by cohort participants in Open Science for Physicists (NS-PH500M) and is enacted from DDMMYYYY.
 The procedure is based on [this exercise by Aurelia Moser](http://aureliamoser.com/aaas-guides/conduct/index.html)  
 
 Everyone taking part in the course and discussions (mentors, helpers, coordinators, and learners) is required to conform to the following Code of Conduct. Coordinators will oversee adherence to this code throughout the course.
