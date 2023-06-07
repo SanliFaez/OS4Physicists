@@ -19,7 +19,7 @@ Everyone taking part in the course and discussions (mentors, helpers, coordinato
     
 #### How to report an issue, should someone violate the code? 
 
-1. Contact Sanli or Erik by private message, or in person. All communication will be treated as confidential. 
+1. Contact Sanli Faez by private message, or in person. All communication will be treated as confidential. 
 2. If for any reason you don’t want to do 1, you can contact *THIRD PERSON to be assigned* who has agreed to function as external contact person for this purpose.
 
 ---
