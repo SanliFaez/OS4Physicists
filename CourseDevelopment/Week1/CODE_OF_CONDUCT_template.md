@@ -1,4 +1,4 @@
-# CODE OF CONDUCT 2022
+# CODE OF CONDUCT 2023
 
 This code of conduct will been decided by cohort participants and is enacted from DDMMYYYY.
 The procedure is based on [this exercise by Aurelia Moser](http://aureliamoser.com/aaas-guides/conduct/index.html)  
