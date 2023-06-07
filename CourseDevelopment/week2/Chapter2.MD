@@ -1,30 +1,28 @@
-# Course Development Week 2
+# Open Science for Physicists, Lecture 2, Collaborative environments
 Course Development Week 2 for the Open Science Course for physics students at graduate level. This document is based on the Syllabus.MD.
 
-Date: Nov/02/2022
++ Last updated Date: 05/06/2022
++ Lecturer: @SanliFaez 
 
-Name: Hendrik Snijder @hendelhendel
-
-Open tasks @SanliFaez @erikvansebille
-+ Feedback on lecture-tutorial distribution of topics
-+ Feedback on lecture format
-+ Feedback on tutorial format
+#### Contributors: 
++ Erik van Sebille @erikvansebille
++ Hendrik Snijder @hendelhendel
 
 ## Goal: setting up a collaborative environment
-After this week, one is able to set up a collaborative environment on Github.
+After this week, one is familiar with the structure of a collaborative environment on Github or Gitlab, and can set a new one up.
 
-![Frontpage](https://github.com/hendelhendel/OS4Physicists/blob/main/CourseDevelopment/week2/Chapter2.jpg?raw=true)
-
+![Frontpage](./Chapter2.jpg)
 
 ## Keywords student familiarity check week 2
-Some of the keywords in syllabs.MD are supposed to be new, while some are most probably familiar for students.
+Some of the keywords in [syllabus](./syllabus.md) are supposed to be new, while some are most probably familiar for students.
 
+/* To BE DISCUSSED, should we do this for each lecture? Will it work in the first trial?*/
 |**New Concepts**|**Familiar Concepts**|
 |----------------|---------------|
-|Licensing and receiving credit| Version control |
-|Best Practices for Community management| Active and passive versioning |
-|Project management and Getting Things Done (GTD)| Readme files and templates |
-|Unit testing (defensive programming)| Merging forked repositorie |
+| Licensing and receiving credit | Version control |
+| Best Practices for Community management | Active and passive versioning |
+| Project management and Getting Things Done (GTD) | Readme files and templates |
+| Unit testing (defensive programming) | Merging forked repositorie |
 
 
 ## Lecture: Week 2 
@@ -34,31 +32,31 @@ Licensing and receiving credit | Best Practices for Community management | Proje
 
 ### Lecture format
 
-The second lecture will be a combination of short videos alternated with some reading. The Lecture consists out of 3 parts, which are distributed to a general Github. In the tutorial students are going to fork it! 
+The second lecture will have two parts. I
 
-1. **Video:** 60 Sec explanation about Licensing and receiving credit. Presented in “bullet points”. These bullet points are not necessary bullet points like in a slideshow, but are different scenes in the video where somebody explains it. This can be a real person or a cartoon. Also an animation is possible. The video ends with a clickable link, where people can find more information. 
+1. **Good enough data analysis and reporting** 
+    30-40 minutes lecture on best practices for setting up a collaborative research environment based on the course of Barbara Vreede and this article
 
-2. **Video:** A 5 min interview on video with a experienced open science community manager. In the interview best Practices for Community management are shared, together with some examples in real life. 
-
-3. **Exploring**: Project management and Getting Things Done (GTD). A free, individual exploration on https://gettingthingsdone.com/resources/  for aprox. 30 min. 
+2. **Project management**: 
+    - Project management and using issues/labels, introduction to Getting Things Done (GTD) boards. 
+    - Some tips and suggestions effective collaboration and project managment on git platforms
 
 
 ## Tutorial: Week 2
 **Topics in tutorial:**
+- Between the two lecture, students will be given a complex coding task to complete in two teams, starting from forking an incomplete repository and make the complete project work as a group! 
+- To make sure that every student practices the basic git commands, every student must be able to run the final program on their PC
 
-Unit testing (defensive programming) | Version control | Active and passive versioning | Readme files and templates | Merging forked repositorie
+/* To BE DISCUSSED, can we cover all these concept in one session? */
+
+Unit testing (defensive programming) | Version control | Active and passive versioning (?) | Readme files and templates | Merging forked repositories
 
 
 ### Tutorial format
 **Assignment objective**
+This is a concept exercise. A practical example has to be developed.
+
 To practise with the topics above, the students are invited to fork the repository of the lecture. This repository contains the videos and links discribed and 1 python program with 4 parts. The groups are the same as in the first tutorial. Every group gets a specific task, see possible deliverables. 
-
-By pulling their work, each group can interact with the student-assistant in order to practise with the workflow. It is NOT allowed to meet in person during this tutorial, in this way people can practise with digital collaboration. 
-
-At the end of the tutorial, the repository contains:
-+ The videos and links of the lecture
-+ A tested an updated python file (See 1. below)
-+ The group specific projects in separated folders (See 2. below)
 
 This repository can be created every year again or it can be a growing repository, with lots of different projects on the topics of week 2. 
 
@@ -74,11 +72,8 @@ This repository can be created every year again or it can be a growing repositor
             +  ...
  
 **Assignment preparation**
-  + Students have to discuss in a teams/zoom environment how they are working together
+  + Students have to discuss in a teams on distribution of task, timing and how they are working together
   + ..
-
-![Dalle2](https://github.com/hendelhendel/OS4Physicists/blob/main/CourseDevelopment/week2/Dalle2.jpg?raw=true)
-![Craiyon](https://github.com/hendelhendel/OS4Physicists/blob/main/CourseDevelopment/week2/Craiyon.png?raw=true)
 
 
 ## Information Sources / Bibliography
