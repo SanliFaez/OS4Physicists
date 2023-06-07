@@ -57,7 +57,7 @@ Scientific design environments| Open protocols|Human-computer interface|Automati
 ### Lecture format
 The lecture contains 2 parts. Both answer a specific question related to open hardware and its possible role in society. In preperation, the students have already thought about these questions by reading the materials above. 
 
-**Part 1** How does the future of hardware look like? (30 min) 
+**Part 1** What does the future of hardware look like? (30 min) 
 
 At the beginning of the lecture, a word cloud is created with the answers of the students for 2030, 2040 and 2050. Then the lecture starts covering the topics: Scientific design environments, open protocols and human-computer interfaces, Automation and bots, remote labs, prototyping. In the above question will be answered by the teacher, and this will be compared with the student input. 
 
