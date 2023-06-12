@@ -28,7 +28,7 @@ Students are asked to reflect on the barriers they see in realization of open sc
 ![5SchoolsOfOpenScience](./Week1/SchoolsofOpenscience.jpg?raw=true)
 
 ### Collective activity
-After the introduction, students are asked to reflect on the new terms they have learned so far. They are asked to form an opinion on the requirements and barriers for the transformation to open science.
+After the introduction, students are asked to reflect on the new terms they have learned so far. They are asked to form and express their point of view on the requirements and barriers for the transformation to open science.
 
 #### Example of classifying concepts from the lecture material
 |**New Concepts**|**Familiar Concepts**|
@@ -40,6 +40,7 @@ After the introduction, students are asked to reflect on the new terms they have
 | Accessibility | Quality of research |
 | Community-Discipline-Employer | |
 
+Students will be asked to keep a list like this in the first part of the lecture and reflect on their list during the collective exercise activity.
 
 ## Tutorials: Week 1
 + Writing a Code of Conduct for this course based on [this template](./Week1/CODE_OF_CONDUCT_template.md)

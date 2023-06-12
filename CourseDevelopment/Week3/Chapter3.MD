@@ -1,14 +1,12 @@
 # Course Development Week 3
-Course Development Week 1 for the Open Science Course for physics students at graduate level. This document is based on the Syllabus.MD.
 
-Date: Nov/16/2022
++ Last updated Date: 12/06/2022
++ Lecturer:  @erikvansebille
 
-Name: Hendrik Snijder @hendelhendel
+#### Contributors: 
++ Erik van Sebille @SanliFaez 
++ Hendrik Snijder @hendelhendel
 
-Open tasks @SanliFaez @erikvansebille
-+ Feedback on lecture-tutorial distribution of topics
-+ Feedback on lecture format
-+ Feedback on tutorial format
 
 
 ## Goal: big science, scale vs precision vs control
