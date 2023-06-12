@@ -1,19 +1,21 @@
 # Course Development Week 6
-Course Development Week 5 for the Open Science Course for physics students at graduate level. This document is based on the Syllabus.MD.
+Course Development Week 6 for the Open Science Course for physics students at graduate level. This document is based on the Syllabus.MD.
 
-Date: Dec/07/2022
+Date: Jun/12/2023
 
-Name: Hendrik Snijder @hendelhendel
+Responsible author: Erik van Sebille @erikvansebille
 
-Open tasks @SanliFaez @erikvansebille
-+ Feedback on lecture-tutorial distribution of topics
-+ Feedback on lecture format
-+ Feedback on tutorial format
+contributors: 
+- Hendrik Snijder @hendelhendel
+- Sanli Faez @sanlifaez
 
-## Goal: public engagement: story-telling and presentation; activism and trust in scientists
+
+## Goal: public engagement: the role of scientists in society; activism and trust in scientists; story-telling and presentation
 After this week, students understand the role, responsibilities and interaction of scientists with scientific communities and the general public. 
-Students have to give a pitch about their other assignments using skills learned in the course. 
-Further, the students are able to formulate their opinion on the role a scientist must take in society, supported by arguments learned in class. By taking into account different stakes in the public debate, they can individually reflect critically on other viewpoints.
+
+The students are able to formulate their opinion on the role a scientist must take in society, supported by arguments learned in class. 
+
+Furthermore, they are able to communicate their research to a general audience, using metaphors and storytelling. They can effectively communicate about uncertainty and avoid jargon.
 
 ## Keywords student familiarity check week 6
 Some of the keywords in [the syllabus](https://github.com/SanliFaez/OS4Physicists/blob/main/Syllabus_202x.md#week-5-public-engagement-story-telling-and-presentation-activism-and-trust-in-scientists) are probably familiar for students, while some others are new.
@@ -23,67 +25,51 @@ Some of the keywords in [the syllabus](https://github.com/SanliFaez/OS4Physicist
 |How storytelling works|Metaphors|
 |Science communication and journalism|Communicating uncertainty|
 |Activism||
-|trust in science||
+|Trust in science||
 |Bounds of expertise||
 |Academic social contract||
 |Narratives and framing||
 |Difficult to reach audiences||
-|Process and outcome||
 
 
 ## Lecture: Week 5
 
 **Preparation:** Read article about how physics is represented in Dutch newspapers. https://jcom.sissa.it/archive/20/07/JCOM_2007_2021_A02
 
-**Part 1** A short “classic” lecture of 25 min on:\
-Academic social contract\
-Bounds of expertise\
-Narratives and framing\
-Trust in science\
-Difficulties to reach audience\
-Trust in science
+**Part 1** Lecture by Erik van Sebille (~25 min) on
+- Academic social contract
+- Trust in science
+- Bounds of expertise
+- Activism
 
-**Part 2** Guest lecture & Discussion (60 min)\
-On representation of physics in the Netherlands\
-Lecture by e.g. [Julia Cramer (Leiden University)](https://www.universiteitleiden.nl/en/staffmembers/julia-cramer#tab-1), followed up by a plenary discussion.
+**Part 2** Guest lecture by [Julia Cramer (Leiden University)](https://www.universiteitleiden.nl/en/staffmembers/julia-cramer#tab-1) (60 min) on
+- Representation of physics in Dutch media
+- Narratives and framing
+- Jargon
+- Types of audiences and difficulties to reach them
+- How storytelling works
+- Metaphors
+- Hype
 
 
-## Tutorial Week 5: What is the role of a scientist in society?\
+## Tutorial Week 6: How to write a layperson summary of your research
 (2x 60 min)
 \
 **Topics in tutorial:**\
-Metaphors | Communicating uncertainty | possible roles of a scientist
+How storytelling works | Jargon | Metaphors | Communicating uncertainty | Narratives and framing
 
 ### Tutorial format
-+ **Assignment objective**
-Students practice presenting and express their points of view, by reflecting on their role as a future scientist or citizen. They will use metaphors to communicate topics of their bachelor research. 
++ **Assignment objective**: Write a layperson summary of your research that is easy to understand for a general audience.
 
-+ **Possible Assignments**
-Students can choose between:
-++ *A plenary discussion*\
-Students are divided in groups of 8. In the first hour of the tutorial session, each group will prepare 5 statements for a plenary debate. 
-Possible statements could be: ...\
-- Scientists should never work with industry partners
-- Scientists should stay away from politics
-- Every scientists should be able to explain their research to a fourteen-year-old high-school student
++ **Assignment description**
+1. Students individually write a layperson summary of maximum 250 words for a previous project (e.g. their Bachelor thesis; if they don't have that they can choose a future project). 
+2. Students read each other's layperson summaries and give feedback on the use of jargon, the use of metaphors, communicating uncertainty and narratives and framing.
+3. Students rewrite their layperson summary based on the feedback they received.
+4. Students check their revised layperson summary for understandability and jargon with a language-check tool (e.g. https://github.com/textstat/textstat)
 
-Students should formulate arguments for and against every statement.\
++ **Assigment submission**: Students submit their revised layperson summary, the feedback they received from their peers, and the output from the language-check tool.
 
-In the second hour of the tutorial all statements go in a (virtual) jar. Five of them will be selected at random.
-After that, the group bringing in this statement will introduce it in a few words and the debate wil start (10 min). 
-To keep the discussion running, the prepared arguments can be thrown in.
-
-
-++ *A Pitch*\
-Students present a pitch of 3 min, to explain why their bachelor thesis is relevant for society. 
-The first hour can be used for preparations. In the second part, all pitchers come together to do their pitch. 
-\
-\
-**TODO:** How should these assignments be graded?
-+ Use of metaphors
-+ Communicating uncertainty in a clear way
-+ Reflect on personal role as a scientist
-
++ **Assignment grading**: The students receive a pass if they submit a layperson summary that passes the language-check tool and that is understandable for a general audience (_note: minimal scores to be decided_).
 
 ## Information Sources / Bibliography
 Information sources listed per topic
@@ -93,12 +79,12 @@ Information sources listed per topic
   + Ted talk on the use of powerpoint: https://www.youtube.com/watch?v=Iwpi1Lm6dFo
   + The mis use of colors in science: https://www.nature.com/articles/s41467-020-19160-7 
 + Activism
-+ trust in science
++ Trust in science
+  + Why trust science? https://press.princeton.edu/books/hardcover/9780691179001/why-trust-science
 + Bounds of expertise
-+ academic social contract 
++ Academic social contract 
   + https://doi.org/10.1080/00091383.2022.2006562 
   + https://link.springer.com/chapter/10.1007/978-94-6209-746-9_4 
 + Narratives and framing
 + Difficult to reach audience
-+ process and outcome
 
