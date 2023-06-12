@@ -15,7 +15,7 @@
 
 
 ## Keywords student familiarity check week 3
-Some of the keywords in syllabs.MD are supposed to be new, while some are most probably familiar for students.
+Some of the keywords in syllabus.MD are supposed to be new, while some are most probably familiar for students.
 
 |**New Concepts**|**Familiar Concepts**|
 |----------------|---------------|
@@ -72,7 +72,7 @@ Teachers and one amateur scientist will give a short presentation covering the f
 A personal story or summary of politics in science, and what to be aware of as a future scientist.
 
 2. **Relativism of big, Climate impacts and transformation** 
-presentation of 10 min. with anecdotes, role of social media, example of Gerrit himstra? https://mobile.twitter.com/gerrithiemstra/with_replies 
+presentation of 10 min. with anecdotes, role of social media, example of Gerrit Hiemstra? https://mobile.twitter.com/gerrithiemstra/with_replies 
 
 3. *Citizen science guest “lecture”* Examples of citizen participation. Story from the field: A personal story of an amateur scientist. (10 min. talk, 10 min questions)
 
@@ -84,7 +84,7 @@ Credit and recognition | Independence and thriving | Lecture topics
 
 ### Tutorial format
 + **Assignment objective**
-Reflect on own bachelor thesis in terms of credit and recognition. Furhter think of the lecture topics in terms of an fictive application. 
+Reflect on own bachelor thesis in terms of credit and recognition. Further think of the lecture topics in terms of an fictive application. 
 
 +**Possible deliverables**
 
@@ -106,10 +106,10 @@ Reflect on own bachelor thesis in terms of credit and recognition. Furhter think
 
 
 >**Rules for the memes**
-++The course is intended to be a safespace to discuss topics related to open science. This does not mean that any meme, or other form of expression, produced in this course can undermine scientific knowledge or specific people. 
+++The course is intended to be a safe space to discuss topics related to open science. This does not mean that any meme, or other form of expression, produced in this course can undermine scientific knowledge or specific people. 
 ++No insult, No harassment and No other acts of verbal/online aggression. This include: Racism, Misogyny, Transphobia, homophobia, religious bigotry, or hatred and discrimination of any kind. 
 ++Presentation All Memes are pulled on the Course Github page
-In the last 30 minutes of the tutorial the memes are presented in class. People can vote for their favorite meme and the 3 best memes will be printed on a poster, wich will be spread at the university! 
+In the last 30 minutes of the tutorial the memes are presented in class. People can vote for their favorite meme and the 3 best memes will be printed on a poster, which will be spread at the university! 
 
 
 

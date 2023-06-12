@@ -1,6 +1,7 @@
 # Open Science for Physicists, Lecture 2, Collaborative environments
 Course Development Week 2 for the Open Science Course for physics students at graduate level. This document is based on the Syllabus.MD.
 
+
 + Last updated Date: 12/06/2022
 + Lecturer: @SanliFaez 
 
@@ -16,6 +17,7 @@ After this week, one is familiar with the structure of a collaborative environme
 ## Keywords student familiarity check week 2
 Some of the keywords in [syllabus](./syllabus.md) are supposed to be new, while some are most probably familiar for students.
 
+/* To BE DISCUSSED, should we do this for each lecture? Will it work in the first trial?*/
 |**New Concepts**|**Familiar Concepts**|
 |----------------|---------------|
 | Licensing | Version control |
@@ -41,12 +43,12 @@ The second lecture will have two parts. I
     - Project management and using issues/labels, introduction to Getting Things Done (GTD) boards. 
     - Some tips and suggestions effective collaboration and project managment on git platforms
 
-
 ## Tutorial: Week 2
 **Topics in tutorial:**
 - Between the two lectures, students will be given a complex coding task to complete in two teams, starting from forking an incomplete repository and then making the complete project work as a group! 
 - To make sure that every student practices the basic git commands, every student must be able to run the final program on their PC
 
+### keywords
 Unit testing (defensive programming) | Version control | Active and passive versioning (?) | Readme files and templates | Merging forked repositories
 
 
@@ -60,12 +62,11 @@ The programming assignment will be based on analysing experimental data with the
   + Students have to discuss in a teams on distribution of task, timing and how they are working together
   + >>> Further steps will be added when the assignment is ready <<<
 
-
 ## Information Sources / Bibliography
 + Licensing and receiving credit
   + https://www.youtube.com/watch?v=vAQghXQApPU 
 + Best Practices for Community management
-  + Expert on Community managemen?
+  + Expert on Community management?
 + Project management and Getting Things Done (GTD)
   + https://gettingthingsdone.com/resources/ 
 + Version control

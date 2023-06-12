@@ -89,7 +89,7 @@ The exact amount of invited professionals, as well as the specific companies and
   + HBO teachers: Hendrik Snijder
 + **Physics/Tech Industry** 
   + Eg. ASML, Quantum-delta companies, photonics companies, Delft startup centre, Thales,…
-  + A-eskwadraat has connections with companies. 
+  + A-Eskwadraat has connections with companies. 
   + Please don't ask 'grey'-companies
 + **Banking/Consulting (Non-physics industry):**
   + Eg. DNB, Consultancy firm, ASN-bank, Triodos Bank, 
@@ -98,7 +98,7 @@ The exact amount of invited professionals, as well as the specific companies and
 
 **Supporting services**
 + **Data steward UU:**
-  + Data stuward Science faculty
+  + Data steward Science faculty
   + E-Science centrum e.g. ask Carlos Martinez-Ortiz 
 + **Mental health coach/psychologist UU**
 + **Recognition and reward UU**:
@@ -111,7 +111,7 @@ The exact amount of invited professionals, as well as the specific companies and
 + step 2: After every speed date, students have time to adjust their prepared mind map. 
 
 **Step-by-step**: Mindmap - Not so much time scenario 2
-In this scenario, the visiting professionals don’t have time to stay long, or not enough professionals were able to visit. Therefore the speed dating will be replaced by a general short presentation of each profesional followed up by Q&A. This can be beneficial in terms of time-efficiency, but may be less interactive. 
+In this scenario, the visiting professionals don’t have time to stay long, or not enough professionals were able to visit. Therefore the speed dating will be replaced by a general short presentation of each professional followed up by Q&A. This can be beneficial in terms of time-efficiency, but may be less interactive. 
 + step 0: Lecture
 + step 1. Instead of speed dating in groups with professionals. The professionals will give a short presentation. Students can ask questions, take notes and they use  active listening techniques: https://www.mindtools.com/a85f8yd/listening-skills-infographic 
 + step 2: After every speed date, students have time to adjust their prepared mind map.
@@ -135,24 +135,24 @@ Careers in science and beyond:
 Applying for scientific positions:
 
 
-**Data stewardship:** An important part of a research plan is data-management. Below, one can find how the Utrecht University deals with data-management. If (new) software is involved, the e-schience centre can help and FAIR-principles can be followed.
+**Data stewardship:** An important part of a research plan is data-management. Below, one can find how the Utrecht University deals with data-management. If (new) software is involved, the e-science centre can help and FAIR-principles can be followed.
 + Data management UU: https://www.uu.nl/en/research/research-data-management
 + SURF, cooperative association of Dutch educational and research institutions for developing possible digital services and to share knowledge: https://www.surf.nl/en/about-surf
 + (Funded) support on software projects: https://www.esciencecenter.nl/
 + FAIR research software: https://www.nature.com/articles/s41597-022-01710-x 
 
 **Grant writing:** No research without funding
-+ How to write sucesfully a grant proposal, Nature: https://www.nature.com/articles/d41586-019-03914-5 and https://www.nature.com/articles/d41586-019-03914-5.pdf 
++ How to write successfully a grant proposal, Nature: https://www.nature.com/articles/d41586-019-03914-5 and https://www.nature.com/articles/d41586-019-03914-5.pdf 
 + NWO open calls : https://www.nwo.nl/en/calls
 + EU grants: https://erc.europa.eu/apply-grant 
 + Funding software (within research) projects in Netherlands: https://www.esciencecenter.nl/calls-for-proposals/ 
 + !NOT open science related!: https://oedb.org/ilibrarian/100_places_to_find_funding_your_research/ 
 
 
-**The PhD advantage:** Below are some references talking about the advantage of a PhD. In some cases it may be an advantage to do a PhD, while in other's it is not necessary. It is considerd that having PhD outside academia has just a little advantage over not having a PhD. On the other hand, if one wants to climb the three in R&D, a PhD may be usefull. If somebody is interested in doing research, a PhD can be a good choice. Since this course is designed for Physics students on Master's level, they belong to the STEM comunity as described below. 
+**The PhD advantage:** Below are some references talking about the advantage of a PhD. In some cases it may be an advantage to do a PhD, while in other's it is not necessary. It is considered that having PhD outside academia has just a little advantage over not having a PhD. On the other hand, if one wants to climb the three in R&D, a PhD may be useful. If somebody is interested in doing research, a PhD can be a good choice. Since this course is designed for Physics students on Master's level, they belong to the STEM community as described below. 
 + STEM := Science, Technology, Engineering & Mathematics
 + The guardian (Journalistic caution: Considered as left-wing in the US): https://www.theguardian.com/careers/phd-right-career-option 
-+ The economist (Journalistic caution: However progressive this journal is economy, hence capitalist focust on carreers): https://medium.economist.com/why-doing-a-phd-is-often-a-waste-of-time-349206f9addb 
++ The economist (Journalistic caution: However progressive this journal is economy, hence capitalist focus on careers): https://medium.economist.com/why-doing-a-phd-is-often-a-waste-of-time-349206f9addb 
 + China Daily (Journalistic caution: China’s perspective), shows the battle for STEM-talent between international superpowers: https://www.chinadaily.com.cn/a/202301/16/WS63c4bd2fa31057c47eba9d0c.html 
 + Brookers institute (CSIS, hence american institute), STEM-talent is wanted across the globe and shows the battle for STEM-talent between international superpowers: https://www.youtube.com/watch?v=ugxaWAIMaQQ 
 + https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/women-in-tech-the-best-bet-to-solve-europes-talent-shortage 
@@ -199,7 +199,7 @@ Mental health in academia:
 
 CV and applications:
 + NWO open calls: https://www.nwo.nl/en/calls 
-+ Carreer service UU (For questions & CV check’s): https://students.uu.nl/en/careerservices 
-+ Academic transfer: Vacancies https://www.academictransfer.com/en/ & the Carreer navigator https://www.academictransfer.com/en/career-navigator/ 
-+ TNO carreers: https://www.tno.nl/en/careers/ 
++ Career service UU (For questions & CV check’s): https://students.uu.nl/en/careerservices 
++ Academic transfer: Vacancies https://www.academictransfer.com/en/ & the Career navigator https://www.academictransfer.com/en/career-navigator/ 
++ TNO careers: https://www.tno.nl/en/careers/ 
 + Vacancies: https://carriere.nrc.nl/vacatures-onderzoek-wetenschap 
