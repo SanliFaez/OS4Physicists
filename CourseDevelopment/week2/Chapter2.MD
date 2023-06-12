@@ -22,7 +22,7 @@ Some of the keywords in [syllabus](./syllabus.md) are supposed to be new, while 
 | Licensing and receiving credit | Version control |
 | Best Practices for Community management | Active and passive versioning |
 | Project management and Getting Things Done (GTD) | Readme files and templates |
-| Unit testing (defensive programming) | Merging forked repositorie |
+| Unit testing (defensive programming) | Merging forked repository |
 
 
 ## Lecture: Week 2 
@@ -39,7 +39,7 @@ The second lecture will have two parts. I
 
 2. **Project management**: 
     - Project management and using issues/labels, introduction to Getting Things Done (GTD) boards. 
-    - Some tips and suggestions effective collaboration and project managment on git platforms
+    - Some tips and suggestions effective collaboration and project management on git platforms
 
 
 ## Tutorial: Week 2
@@ -56,7 +56,7 @@ Unit testing (defensive programming) | Version control | Active and passive vers
 **Assignment objective**
 This is a concept exercise. A practical example has to be developed.
 
-To practise with the topics above, the students are invited to fork the repository of the lecture. This repository contains the videos and links discribed and 1 python program with 4 parts. The groups are the same as in the first tutorial. Every group gets a specific task, see possible deliverables. 
+To practice with the topics above, the students are invited to fork the repository of the lecture. This repository contains the videos and links described and 1 python program with 4 parts. The groups are the same as in the first tutorial. Every group gets a specific task, see possible deliverables. 
 
 This repository can be created every year again or it can be a growing repository, with lots of different projects on the topics of week 2. 
 
@@ -64,9 +64,9 @@ This repository can be created every year again or it can be a growing repositor
   1. All groups have to test a part of the python software. Some specific changes in the software has to be made.
 
   2. Each group can choose between:
-      1. Some groups can search for an open source initatives. They try to track down the workflows and they try to add something. The workflow are combined in a .MD file and added to the forked repository. In this way the students can practise with version control and with crediting another project.
-      2. Some groups can search for open source data sets and try to visualize them in a fancy way. The group have to calculate something new with the existing data. The new data set can be stored on the repository, which then can be pulled. In this way students can practis with version control
-      3.  Some groups can search for an open source AI, such as DALLE-2 or craiyon. With this software, students are going to study a topic they like in a systematic way by changing the input a bit. After every iteration, they ask for a pull request on pulling the results on the repopsitory. In this way the students can practise with version control and with crediting another project.As an example, they can ask dalle-2 the following: 
+      1. Some groups can search for an open source initiatives. They try to track down the workflows and they try to add something. The workflow are combined in a .MD file and added to the forked repository. In this way the students can practice with version control and with crediting another project.
+      2. Some groups can search for open source data sets and try to visualize them in a fancy way. The group have to calculate something new with the existing data. The new data set can be stored on the repository, which then can be pulled. In this way students can practice with version control
+      3.  Some groups can search for an open source AI, such as DALLE-2 or craiyon. With this software, students are going to study a topic they like in a systematic way by changing the input a bit. After every iteration, they ask for a pull request on pulling the results on the repository. In this way the students can practice with version control and with crediting another project.As an example, they can ask DALLE-2 the following: 
             +  first iteration: "An apple with a blue hat and two legs cycling on a bike in front of the empire state building, painted by dali."
             +  second iteration: "An pine-apple with a blue hat and two legs cycling on a bike in front of the empire state building, painted by dali."
             +  ...
@@ -80,7 +80,7 @@ This repository can be created every year again or it can be a growing repositor
 + Licensing and receiving credit
   + https://www.youtube.com/watch?v=vAQghXQApPU 
 + Best Practices for Community management
-  + Expert on Community managemen?
+  + Expert on Community management?
 + Project management and Getting Things Done (GTD)
   + https://gettingthingsdone.com/resources/ 
 + Version control

@@ -38,7 +38,7 @@ Some of the keywords in [the syllabus](https://github.com/SanliFaez/OS4Physicist
 **Part 1** A short “classic” lecture of 25 min on:\
 Academic social contract\
 Bounds of expertise\
-Naratives and framing\
+Narratives and framing\
 Trust in science\
 Difficulties to reach audience\
 Trust in science
@@ -61,7 +61,7 @@ Students practice presenting and express their points of view, by reflecting on 
 + **Possible Assignments**
 Students can choose between:
 ++ *A plenary discussion*\
-Students are devided in groups of 8. In the first hour of the tutorial session, each group will prepare 5 statements for a plenary debate. 
+Students are divided in groups of 8. In the first hour of the tutorial session, each group will prepare 5 statements for a plenary debate. 
 Possible statements could be: ...\
 - Scientists should never work with industry partners
 - Scientists should stay away from politics
@@ -71,7 +71,7 @@ Students should formulate arguments for and against every statement.\
 
 In the second hour of the tutorial all statements go in a (virtual) jar. Five of them will be selected at random.
 After that, the group bringing in this statement will introduce it in a few words and the debate wil start (10 min). 
-To keep the discussion running, the prepered arguments can be trown in.
+To keep the discussion running, the prepared arguments can be thrown in.
 
 
 ++ *A Pitch*\
@@ -80,7 +80,7 @@ The first hour can be used for preparations. In the second part, all pitchers co
 \
 \
 **TODO:** How should these assignments be graded?
-+ Use of methaphores
++ Use of metaphors
 + Communicating uncertainty in a clear way
 + Reflect on personal role as a scientist
 

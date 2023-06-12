@@ -120,7 +120,7 @@ Wilson G, Bryan J, Cranston K, Kitzes J, Nederbragt L, et al. (2017) Good enough
 
 
 ## Information Sources / Bibliography
-Best practises in data visualization
+Best practices in data visualization
 + Wilson G, Bryan J, Cranston K, Kitzes J, Nederbragt L, et al. (2017) Good enough practices in scientific computing. PLOS Computational Biology 13(6): e1005510. https://doi.org/10.1371/journal.pcbi.1005510
 + About the use of colors in scientific comminucation see https://www.nature.com/articles/s41467-020-19160-7 for the article: Crameri, F., Shephard, G.E. & Heron, P.J. The misuse of colour in science communication. Nat Commun 11, 5444 (2020). https://doi.org/10.1038/s41467-020-19160-7
 
