@@ -51,7 +51,7 @@ Most of the exercises in this course are done in teams, which are either chosen 
 ## Week 6: public engagement: story-telling and presentation; activism and trust in scientists
 *keywords:* How storytelling works, Science communication and journalism, Activism and trust in Science, Bounds of expertise, Academic social contract, Metaphores, Communicating uncertainty, Narratives and framing, Difficult to reach audience, Process and outcome
 
-+ lay person summary of a previous or future project
++ each student writes a lay person summary of one of their previous or future projects
 + Identify jargon and discuss how to avoid it in the science communication (inspiration from upgoer 5)
 + assignments will be test using language level tools
 
