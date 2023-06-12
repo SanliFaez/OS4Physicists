@@ -21,6 +21,7 @@ Most of the exercises in this course are done in teams, which are either chosen 
 *keywords:* Big-science collaborations, Citizen science, Credit and recognition, Policy and politics of science, Governance structures, Independence and thriving, Relativism of big, Climate impacts and transformation of the research ecosystem
 
 + Students investigate the structure, history, function, and working conditions of these big collaborations and present for the class. Presentations will recieve peer-feedback.
+Possible projects include (names in italics not yet contacted)
 	+ IPCC, Roderick van der Wal, Aimee Slangen,
 	+ ATLAS, Alessandro Grelli, 
 	+ LIGO/VIRGO, Chris van den Broeke
