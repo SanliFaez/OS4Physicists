@@ -12,7 +12,7 @@
 ## Goal: Why open science, how did we get here? 
 In this lecture, student are introduced to various definitions of open science and how people and organizations are getting there from the current state of science. 
 In a discussion a student can distinguish between different schools of open science and can take a point of view on their suitability and to name consequences of open science for their careers, and for science in general. 
-Besides that, the international context and access to scientific knowledge will be discussed, as well as the oposition to the new research policies. 
+Besides that, the international context and access to scientific knowledge will be discussed, as well as the opposition to the new research policies. 
 Students are asked to reflect on the barriers they see in realization of open science ideals
 
 ## Lecture: Week 1 
@@ -28,7 +28,7 @@ Students are asked to reflect on the barriers they see in realization of open sc
 ![5SchoolsOfOpenScience](./Week1/SchoolsofOpenscience.jpg?raw=true)
 
 ### Collective activity
-After the introduction, students are asked to reflect on the new terms they have learned so far. They are asked to form an opinon on the requirements and barriers for the transformation to open science.
+After the introduction, students are asked to reflect on the new terms they have learned so far. They are asked to form an opinion on the requirements and barriers for the transformation to open science.
 
 #### Example of classifying concepts from the lecture material
 |**New Concepts**|**Familiar Concepts**|

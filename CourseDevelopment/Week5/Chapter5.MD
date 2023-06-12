@@ -15,7 +15,7 @@ Open tasks @SanliFaez
 + Specify the requirements for the open hardware measurement project
 
 ## Goal: open design and open hardware; prototyping? 
-After this week, one is familier witht he concept of openscience in hardware development. Students get familiar with finding open hardware recipies and know how to contribute to them. After the lecture students can explain in a discussion what challenges open hardware can solve and what socio-economic issues are involved. 
+After this week, one is familiar with the concept of open science in hardware development. Students get familiar with finding open hardware recipes and know how to contribute to them. After the lecture students can explain in a discussion what challenges open hardware can solve and what socio-economic issues are involved. 
 
 
 ![Frontpage](LINK TO PICTURE)
@@ -55,7 +55,7 @@ Scientific design environments| Open protocols|Human-computer interface|Automati
 
 
 ### Lecture format
-The lecture contains 2 parts. Both answer a specific question related to open hardware and its possible role in society. In preperation, the students have already thought about these questions by reading the materials above. 
+The lecture contains 2 parts. Both answer a specific question related to open hardware and its possible role in society. In preparation, the students have already thought about these questions by reading the materials above. 
 
 How does the future of hardware look like? (30 min) 
 
@@ -66,7 +66,7 @@ At the beginning of the lecture, a word cloud is created with the answers of the
 **Part 2** What physical and political constrains and advances is open hardware facing? (30min)
  
 recourse the game will be showed and the correct answer will be displayed together with a quote of Sanli Faez. “Sanli: The difference between open hardware and open software is that copying code does not require extra materials, while reproducing hardware is material dependent. So one should consider the choice of materials and access to it if real openness is a goal.””
-The rest of the lecture teaches the students on: Materials-resource-constraints, Defence and national security, Maintenance.
+The rest of the lecture teaches the students on: Materials-resource-constraints, Defense and national security, Maintenance.
 
 
 ## Tutorial: Week 5
@@ -82,7 +82,7 @@ Goal of this tutorial is to use open hardware resources, to create a piece of ha
 **Assignment objective**
 Some possible hardware devices and measurements ideas are presented below. It is by the course leaders to choose a project, or come up with a similar project. Due to time, things need to be pre-fabricated. A possibility is to do that in @lily’sprotolab, where things such as 3D printing and microcontrollers, can be prepared, such that the students can focus on the assemblage and measurement. 
 It can be wise to combine different projects from below. For example, option 3 and option 4 can be combined. 
-Furhtermore, students can do their experiments in a specific order, where they realy on eachother's measurement results. If this is done in two groups with similar devices, the final results can be compared in order to show, that even a different procedure can give different results. A connection with bigscience can be made here.
+Furthermore, students can do their experiments in a specific order, where they rely on each other's measurement results. If this is done in two groups with similar devices, the final results can be compared in order to show, that even a different procedure can give different results. A connection with big science can be made here.
 
 + **Option 1:** Build a Powerbank and perform and measure it’s impedance. This can be done with typical lab devices such as a potentiostat. If there is plenty of time one such equipment on their own potentiostat. 
   + Powerbank: https://www.printables.com/model/391695-wip-power-bank-3s2p-6-in-a-row-18650-connector-cas 
@@ -100,8 +100,8 @@ Assemblage of : https://www.airgradient.com/open-airgradient/instructions/diy/
 Measure the Airquality and compare it with https://aqicn.org/city/utrecht/ 
 
 + **Option 4**
-Pick an experiment of Phyphox which can be done on a smartphone. Let students peform this expirment, and let them compare the results with some simple statistics. 
-As an example, students can measure the speed of sound (https://phyphox.org/experiment/speed-of-sound/) to calculate the outside temperature of the air with. To learn that every device is different, students can compare their results and can compare it with offical weather data.
+Pick an experiment of Phyphox which can be done on a smartphone. Let students perform this experiment, and let them compare the results with some simple statistics. 
+As an example, students can measure the speed of sound (https://phyphox.org/experiment/speed-of-sound/) to calculate the outside temperature of the air with. To learn that every device is different, students can compare their results and can compare it with official weather data.
 https://phyphox.org/experiment/
 
 + **Option 5** Any project with a raspberry pi pico and micro-python to make a little device, to do a measurement. 
@@ -121,7 +121,7 @@ https://phyphox.org/experiment/
 
 
 + Experimental design course UU, for students how are interested to build more open hardware devices.: https://osiris.uu.nl/osiris_student_uuprd/OnderwijsCatalogusSelect.do?selectie=cursus&cursus=NS-EX422M&collegejaar=2020&taal=nl 
-+ Open challanges on Jogl: https://jogl.io/ 
++ Open challenges on Jogl: https://jogl.io/ 
 + Fablab: https://waag.org/en/lab/fablab/ 
 + Future labs Maybe for week 2?: https://ddw.nl/en/programme/7942/waag-talks-start-making-sense 
 + Future labs: https://waag.org/en/project/ 
@@ -144,12 +144,12 @@ Human-computer interface
 + https://www.sciencedirect.com/science/article/pii/B9780128161760000387 
 + https://www.sciencedirect.com/science/article/abs/pii/S0065245810800075  
 
-micro-controlers (Rasberry pi )
+micro-controllers (Rasberry pi )
 + https://www.seeedstudio.com/blog/2021/03/26/10-raspberry-pi-pico-projects/
 + https://elektronicavoorjou.nl/product/uitgebreide-kit-rpi-pico/?gclid=Cj0KCQiA_P6dBhD1ARIsAAGI7HAQVck4jLfjT6BMmpt6Oo8pIBRfXfyF462kJCdKEXirv8PycbayX0YaAnRcEALw_wcB
-+ Rasberry Pi projects: https://www.magpi.nl/magazine/2023/28 
++ Raspberry Pi projects: https://www.magpi.nl/magazine/2023/28 
 
-Journal: HardwareX (=open acces hardware)
+Journal: HardwareX (=open access hardware)
 + Open hardware: https://en.wikipedia.org/wiki/List_of_open-source_hardware 
 + Remote Laboratory:
 + https://remotelaboratory.com/remote-laboratories/what-are-remote-laboratories/ 
@@ -170,9 +170,9 @@ Open protocols: (Software focus)
 
 
 Materials-resources-constraints
-+ matrials: https://openmaterialsdb.se/ 
++ materials: https://openmaterialsdb.se/ 
 + Battery archive: https://www.batteryarchive.org/resources.html 
-+ Material Challanges and how to solve them in EU: https://www.wetenschappelijkbureaugroenlinks.nl/metals-for-europe 
++ Material Challenges and how to solve them in EU: https://www.wetenschappelijkbureaugroenlinks.nl/metals-for-europe 
 + Economics: https://www.bol.com/nl/nl/f/less-is-more/9200000128080503/ 
 + Economics: https://www.bol.com/nl/nl/p/doughnut-economics/9200000083131123/?Referrer=ADVNLGOO002008O-G-139188994260-S-1926802725980-9200000083131123&gclid=Cj0KCQiA3eGfBhCeARIsACpJNU-UrHw7bwYUu5JB9y7D6iHpi8i0jKCj3gZZebZxQoLtZIHYPUVy19MaAv1kEALw_wcB 
 + Economics: http://www.rutgerhoekstra.com/replacing-gdp-by-2030/ 
