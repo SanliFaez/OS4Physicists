@@ -58,7 +58,7 @@ Most of the exercises in this course are done in teams, which are either chosen 
 ## Week 7: from science to business: tech transfer (including open strategies), intelectual property and the academic social contract, scipreneurship
 *keywords:* Technology transfer, Open strategies and open science business models, Scipreneurship; starting a business, Creating impact, Forking vs contributing, Moral ambition, IP-Licensing-Conflict of interest
 
-+ (individually) make an open (business) canvas about the potential users of the master thesis topic or a project?
++ Students individually make an open (business) canvas about the potential users of the master thesis topic or a project
 + teams provide peer-feedback on each others canvas
 + in preparation of the final assignment, follow the instructions on the story-telling exercise
 
