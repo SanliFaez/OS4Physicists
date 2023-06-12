@@ -53,7 +53,7 @@ Most of the exercises in this course are done in teams, which are either chosen 
 
 + each student writes a lay person summary of one of their previous or future projects
 + In pairs, the students identify the jargon in their layperson summaries, and discuss how to avoid it in the science communication (inspiration from upgoer 5)
-+ assignments will be test using language level tools
++ assignments will be tested using language level tools (e.g. https://github.com/textstat/textstat, tbd)
 
 ## Week 7: from science to business: tech transfer (including open strategies), intelectual property and the academic social contract, scipreneurship
 *keywords:* Technology transfer, Open strategies and open science business models, Scipreneurship; starting a business, Creating impact, Forking vs contributing, Moral ambition, IP-Licensing-Conflict of interest
