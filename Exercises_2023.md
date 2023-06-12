@@ -22,18 +22,18 @@ Most of the exercises in this course are done in teams, which are either chosen 
 
 + Students investigate the structure, history, function, and working conditions of these big collaborations and present for the class. Presentations will recieve peer-feedback.
 Possible projects include (names in italics not yet contacted)
-	+ IPCC, Roderick van der Wal, Aimee Slangen,
-	+ ATLAS, Alessandro Grelli, 
-	+ LIGO/VIRGO, Chris van den Broeke
-	+ NEEM, ?? 
-	+ Spectroscopy, Frans Snik
+	+ IPCC, _Roderik van de Wal_, _Aimée Slangen_
+	+ ATLAS, _Alessandro Grelli_
+	+ LIGO/VIRGO, _Chris van den Broeke_
+	+ NEEM, _Carina van der Veen_
+	+ Spectroscopy, _Frans Snik_
 	+ Astroplant https://www.astroplant.io/, (?)
-	+ Pangeo, Ryan Abernati
+	+ Pangeo, _Ryan Abernathey_
 	+ SKA, 
-	+ Chinese space agency,
-	+ ECMWF (KNMI), 
-	+ Seti at home,
-	+ Large scale environment sensing, Rolf Hut
+	+ Chinese space agency, _Marc Klein Wolt_
+	+ ECMWF (KNMI), _Rianne Giesen_
+	+ Seti @ home, ??
+	+ Large scale environment sensing, _Rolf Hut_
 	 
 + How is open science implemented in the structure of the big collaborations, and does it help?
 
