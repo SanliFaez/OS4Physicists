@@ -1,5 +1,12 @@
-# Open Science  for Physicists
+# Open Science for Physicists
 *Syllabus*
+
++ Last updated Date: 12/JUN/2023
++ Lecturers: Sanli Faez @SanliFaez, Erik van Sebille @erikvansebille
+
+This course is presented for the first time in the academic year 2023/24 as an elective for the Master of Physics programs at Utrecht Universities. 
+Some parts of the course might be adjusted or reshuffled by the lecturers, *during* the first-time execution.  
+
 
 ## Week 1: why open science, how did we get here?  
 *keywords:* Five schools of Open Science, Current state of the conversation (NL, UU, Physics), Amateurism, Laboratory life, The reproducibility crisis, Fraud, Access and Emancipation, Community-Discipline-Employer, International context, Transdsiciplinary and interdisciplinary science, Risks and rewards of Open Science, Oposition and counter arguments

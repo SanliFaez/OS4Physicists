@@ -1,6 +1,6 @@
 # Open Science for Physicists, Lecture 1, Introduction
 
-+ Last updated Date: 05/06/2022
++ Last updated Date: 12/JUN/2023
 + Lecturer: @SanliFaez 
 
 #### Contributors: 
@@ -11,9 +11,10 @@
 
 ## Goal: Why open science, how did we get here? 
 In this lecture, student are introduced to various definitions of open science and how people and organizations are getting there from the current state of science. 
-In a discussion a student can distinguish between different schools of open science and can take a point of view on their suitability and to name consequences of open science for their careers, and for science in general. 
-Besides that, the international context and access to scientific knowledge will be discussed, as well as the opposition to the new research policies. 
-Students are asked to reflect on the barriers they see in realization of open science ideals
+After the introducing different schools of open science students are encouraged to take a point of view on the realation of each classification to their potential future projects and to name consequences of open science for their careers, and for science in general. 
+Besides that, the international context and access to scientific knowledge will be discussed, as well as the opposition to the inacted new research policies in connection with open science and the new system of recognition in academia. 
+During the breakout discussions, students are asked to reflect on the barriers they see in realization of open science ideals.
+
 
 ## Lecture: Week 1 
 **Topics covered in lecture**
@@ -22,13 +23,14 @@ Students are asked to reflect on the barriers they see in realization of open sc
 - Access and academic emancipation
 - Community-Discipline-Employer
 - Laboratory life 
-- International context, [UNESCO Recommendation on Open Science](https://www.youtube.com/watch?v=I3Wkvx_ZaFo)
-- Trans Disciplinary and interdisciplinary science
+- The international context from the lens of [UNESCO Recommendation on Open Science](https://www.youtube.com/watch?v=I3Wkvx_ZaFo)
+- Trans-disciplinary and interdisciplinary science
 
 ![5SchoolsOfOpenScience](./Week1/SchoolsofOpenscience.jpg?raw=true)
 
 ### Collective activity
-After the introduction, students are asked to reflect on the new terms they have learned so far. They are asked to form and express their point of view on the requirements and barriers for the transformation to open science.
+After the introductory lecture, students are asked to reflect (in break-out sessions) on the new terms they have learned during the class. 
+They are asked to form and express their point of view on the requirements and barriers for the transformation to open science.
 
 #### Example of classifying concepts from the lecture material
 |**New Concepts**|**Familiar Concepts**|
@@ -42,9 +44,13 @@ After the introduction, students are asked to reflect on the new terms they have
 
 Students will be asked to keep a list like this in the first part of the lecture and reflect on their list during the collective exercise activity.
 
-## Tutorials: Week 1
-+ Writing a Code of Conduct for this course based on [this template](./Week1/CODE_OF_CONDUCT_template.md)
-+ Subscribing to gitlab repository and practicing basics of git for handling assignments
+
+## Exercises: Week 1
+
+Apart from the student activities around the main goal of this lecture, students will work on two small exercises to get prepared for the rest of the course, 
+
++ Beginning of the lecture: subscribing to the course gitlab repository and practicing basics of git for handling assignments,
++ Towards the end: Writing a Code of Conduct for this course based on [this template](./Week1/CODE_OF_CONDUCT_template.md)
 
 
 ## Information Sources / Bibliography
