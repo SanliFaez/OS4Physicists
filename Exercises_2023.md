@@ -15,7 +15,7 @@ Most of the exercises in this course are done in teams, which are either chosen 
 
 + In two big teams, studens have to fork a python project that needs troubleshooting, then fix it in different stages taking charge of coordination and task distribution.
 + Every student forks the final project from their team, runs it in their PC, and they submit the individual answer under the corresponding issue on the course repo.
-+ To prepare for week 3, teams will be assign a big scientific collaboration to investigate and report about in week 3.
++ To prepare for week 3, teams will be assigned one big scientific collaboration (e.g. ATLAS@CERN, IPCC, Ligo/Virgo...) to investigate and report about in week 3.
 
 ## Week 3: big science, scale vs precision vs control
 *keywords:* Big-science collaborations, Citizen science, Credit and recognition, Policy and politics of science, Governance structures, Independence and thriving, Relativism of big, Climate impacts and transformation of the research ecosystem
