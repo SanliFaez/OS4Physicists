@@ -1,14 +1,14 @@
 # Open Science for Physicists
 *Overview of assignments and tutorial activities*
 
-Most of the exercises in this course are done in teams, which are either chosen by the coordinators or self-organize. To evaluate individual contributions, teams should also post a CREDIT decleration when posting each assignment.
+Most of the exercises in this course are done in teams, which are either chosen by the coordinators or self-organize. To evaluate individual contributions, teams should also post a [CRedIT statement](https://doi.org/10.1002/leap.1210) when posting each assignment.
 
 ## Week 1: why open science, how did we get here?  
 *keywords:* Five schools of Open Science, Current state of the conversation (NL, UU, Physics), Amateurism, Laboratory life, The reproducibility crisis, Fraud, Access and Emancipation, Community-Discipline-Employer, International context, Transdsiciplinary and interdisciplinary science, Risks and rewards of Open Science, Oposition and counter arguments
 
 + Learning basic git: students are guided to join the course repository as collaborators and to make their first pull request
 + Reflection: Students collet the new concepts from the lecture and discuss them in the break-out sessions. In the plenary, they are asked to reflect on what they collective know about these concept and if that is enough for their career decisions.
-+ All the students collective write the code of conduct of the course, first in break-out sessions, and then all together.
++ All the students collectively write the code of conduct of the course, first in break-out sessions, and then all together.
 
 ## Week 2: setting up a collaborative environment
 *keywords:* Version control, Licensing and recieving credit, Readme files and templates, Best practices for community management, Active and passive versioning, Project management and Getting Things Done (GTD), Unit testing (defensive programming), Merging forked repositories 
