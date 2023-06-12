@@ -34,7 +34,7 @@ Most of the exercises in this course are done in teams, which are either chosen 
 	+ Seti at home,
 	+ Large scale environment sensing, Rolf Hut
 	 
-+ How is open science implement in the structure of the big collaborations, and does it help?
++ How is open science implemented in the structure of the big collaborations, and does it help?
 
 ## Week 4: documentation for reproducibility
 *keywords:* Best practices for documentation, Data structures and data plans, GDPR and privacy rules, templates and bug reports, Persisten identifiers, Machine-readable docs, Systematic review, Scripting, Compatibility, Dockers-Virtual Environments-Pinning, Best practices in data visualization, 
