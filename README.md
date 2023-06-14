@@ -7,14 +7,14 @@ used by physicists working in- or outside academia in their professional activit
 
 ## Covered Topics:
 The topics for each week are
-1. why open science, how did we get here?  
-2. setting up a collaborative environment (readme, templates, community rules, version control, licensing and credit)
-3. big science (CERN, VIRGO, NASA), scale vs precision (for citizen science)
-4. reproducibility: documentation for reproducibility (and data storage)
-5. open design and open hardware; prototyping
-6. public engagement: story-telling and presentation; activism and trust in scientists
-7. from science to business: tech transfer (including open strategies), intellectual property and the academic social contract, scipreneurship
-8. the scientific process (grantwriting, scientific careers, searching for a PhD position, professional and entrepreneurial careers)
+1. [Week 1](CourseDevelopment/Week1/Lecture1.md): Why open science, how did we get here?  
+2. [Week 2](CourseDevelopment/Week2/Chapter2.MD): Setting up a collaborative environment (readme, templates, community rules, version control, licensing and credit)
+3. [Week 3](CourseDevelopment/Week3/Chapter3.MD): Big science (CERN, VIRGO, NASA), scale vs precision (for citizen science)
+4. [Week 4](CourseDevelopment/Week4/Chapter4.md): Reproducibility: documentation for reproducibility (and data storage)
+5. [Week 5](CourseDevelopment/Week5/Chapter5.MD): Open design and open hardware; prototyping
+6. [Week 6](CourseDevelopment/Week6/Chapter6.md): Public engagement: story-telling and presentation; activism and trust in scientists
+7. [Week 7](CourseDevelopment/Week7/Chapter7.md): from science to business: tech transfer (including open strategies), intellectual property and the academic social contract, scipreneurship
+8. [Week 8](CourseDevelopment/Week8/Chapter8.md): The scientific process (grantwriting, scientific careers, searching for a PhD position, professional and entrepreneurial careers)
 
 For details of the topics covered in each lecture, please look at [the Syllabus](Syllabus_202x.md)
 
