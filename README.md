@@ -32,7 +32,8 @@ By following this course students make an attempt to
 Note that each learning goal maps directly onto the equivalent topic above.
 
 ## Assessment
-The exercises for this course are team-based. 
+The exercises for this course are team-based. See [the list of assignments](Exercises_2023.md) for the full list.
+
 Teams will be reshuffled for each exercise so that pass/fail is individually determined by collecting a basket of satisfactory project results.
 Exercises are partially assessed by peers and partially by course coordinators and lecturers.
 
