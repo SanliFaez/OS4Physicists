@@ -85,6 +85,7 @@ Information sources listed per topic
 + Academic social contract 
   + https://doi.org/10.1080/00091383.2022.2006562 
   + https://link.springer.com/chapter/10.1007/978-94-6209-746-9_4 
+  + https://www.nature.com/articles/d41586-020-03067-w 
 + Narratives and framing
 + Difficult to reach audience
 
