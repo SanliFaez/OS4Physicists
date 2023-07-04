@@ -30,6 +30,8 @@ Some of the keywords in syllabus.MD are supposed to be new, while some are most 
 **Topics in lecture**
 Big-science collaborations | Citizen science | Policy and politics of science | Governance structures | Climate impacts of science
 
+### Preparation
+At the end of the Week 2 lecture, students have been distributed in groups of 6-8, and assigned a big science collaboration to investigate, on which they will give a short presentation at the end of this lecture. While most of the work can be done during the lecture of Week3, the students are expected to have read up on what the goals and structure of their assigned collaboration is, and to have thought about how Open Science principles are implemented in the structure of the collaboration.
 
 ### Lecture format
 The lecture will start with a (prerecorded) video lecture by [Dr Niels Martens](https://www.uu.nl/staff/ncmmartens), who will discuss the epistemology of scientific collaborations. He will discuss examples of 'big science' projects such as CERN and the Next Generation Event Horizon Telescope (ngEHT). 
@@ -38,7 +40,7 @@ He will especially focus on ways to manage the large number of co-authors that a
 
 
 ### Assignment
-After watching his lecture, the students will be asked to investigate one of a list of collaborative projects. These are listed below. The students will be asked to give a short presentation at the end of the lecture, where they focus on two aspects:
+After watching the lecture, the students will be asked to prepare a presentation in which they relate the content of the lecture to their assigned big collaboration project (listed below). The students will be asked to give a short presentation at the end of the lecture, where they focus on two aspects:
 1. A short overview of the structure, history, function, and working conditions of these big collaborations.
 2. An assessment of how Open Science principles are implemented in the structure of the big collaboration.
 
