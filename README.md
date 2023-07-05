@@ -9,7 +9,7 @@ used by physicists working in- or outside academia in their professional activit
 The topics for each week are
 1. [Week 1](CourseDevelopment/Week1/Lecture1.md): Why open science, how did we get here?  
 2. [Week 2](CourseDevelopment/Week2/Chapter2.MD): Setting up a collaborative environment (readme, templates, community rules, version control, licensing and credit)
-3. [Week 3](CourseDevelopment/Week3/Chapter3.MD): Big science (CERN, VIRGO, NASA), scale vs precision (for citizen science)
+3. [Week 3](CourseDevelopment/Week3/Chapter3.MD): Big science (CERN, VIRGO, IPCC, ...), co-authorship and asking for credit
 4. [Week 4](CourseDevelopment/Week4/Chapter4.md): Reproducibility: documentation for reproducibility (and data storage)
 5. [Week 5](CourseDevelopment/Week5/Chapter5.MD): Open design and open hardware; prototyping
 6. [Week 6](CourseDevelopment/Week6/Chapter6.md): Public engagement: story-telling and presentation; activism and trust in scientists
