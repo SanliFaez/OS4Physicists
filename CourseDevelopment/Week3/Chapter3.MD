@@ -52,8 +52,8 @@ Presentations will receive peer-feedback.
 
 ### List of projects to investigate
 + [Intergovernmental Panel on Climate Change](http://ipcc.ch/)
-+ [ATLAS experiment at CERN](https://atlas.cern)
-+ [LIGO/VIRGO](https://www.ligo.org)
++ [ALICE experiment at CERN](https://atlas.cern) [contact [Alessandro Grelli](https://www.uu.nl/staff/AGrelli)]
++ [Virgo](https://www.virgo-gw.eu) [contact [Chris van den Broeck](https://www.uu.nl/staff/cffvandenbroeck1)]
 + [NEEM](https://neem.dk/)
 + [Astroplant](https://www.astroplant.io/)
 + [Pangeo](https://pangeo.io/)
