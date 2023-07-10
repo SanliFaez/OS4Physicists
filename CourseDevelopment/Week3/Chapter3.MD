@@ -51,7 +51,7 @@ After watching the lecture, the students will be asked to prepare a presentation
 Presentations will receive peer-feedback.
 
 ### List of projects to investigate
-+ [Intergovernmental Panel on Climate Change](http://ipcc.ch/)
++ [Intergovernmental Panel on Climate Change](http://ipcc.ch/) [contact [Aimée Slangen](https://www.nioz.nl/en/about/organisation/staff/aimee-slangen)]
 + [ALICE experiment at CERN](https://atlas.cern) [contact [Alessandro Grelli](https://www.uu.nl/staff/AGrelli)]
 + [Virgo](https://www.virgo-gw.eu) [contact [Chris van den Broeck](https://www.uu.nl/staff/cffvandenbroeck1)]
 + [NEEM](https://neem.dk/)
@@ -59,7 +59,7 @@ Presentations will receive peer-feedback.
 + [Pangeo](https://pangeo.io/)
 + [SKA telescopes](https://www.skatelescope.org/)
 + [James Webb Space Telescope](https://www.jwst.nasa.gov/)
-+ [European Centre for Medium Range Weather Forecasts](https://www.ecmwf.int/)
++ [European Centre for Medium Range Weather Forecasts](https://www.ecmwf.int/) [contact [Gert-Jan Marseille](https://www.linkedin.com/in/gert-jan-marseille-3560a110/)]
 + [Seti @ home](https://setiathome.berkeley.edu/)
 
 
