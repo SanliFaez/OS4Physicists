@@ -2,19 +2,19 @@
 Course plan and materials for the Open Science Course at the Physics Department
 
 ## Course goal 
-In Open Science for Physicists (OS4Physicists), students evaluate the best practices, concepts and conditions 
-used by physicists working in- or outside academia in their professional activities and workflow.
+In Open Science for Physicists (OS4P), students evaluate the best practices, concepts and conditions 
+used by physicists in their professional activities and workflow, working either inside or outside academia .
 
 ## Covered Topics:
 The topics for each week are
 1. [Week 1](CourseDevelopment/Week1/Lecture1.md): Why open science, how did we get here?  
-2. [Week 2](CourseDevelopment/Week2/Chapter2.MD): Setting up a collaborative environment (readme, templates, community rules, version control, licensing and credit)
-3. [Week 3](CourseDevelopment/Week3/Chapter3.MD): Big science (CERN, VIRGO, IPCC, ...), co-authorship and asking for credit
-4. [Week 4](CourseDevelopment/Week4/Chapter4.md): Reproducibility: documentation for reproducibility (and data storage)
-5. [Week 5](CourseDevelopment/Week5/Chapter5.MD): Open design and open hardware; prototyping
-6. [Week 6](CourseDevelopment/Week6/Chapter6.md): Public engagement: story-telling and presentation; activism and trust in scientists
-7. [Week 7](CourseDevelopment/Week7/Chapter7.md): from science to business: tech transfer (including open strategies), intellectual property and the academic social contract, scipreneurship
-8. [Week 8](CourseDevelopment/Week8/Chapter8.md): The scientific process (grantwriting, scientific careers, searching for a PhD position, professional and entrepreneurial careers)
+2. [Week 2](CourseDevelopment/Week2/Lecture2.md): Setting up a collaborative environment (readme, templates, community rules, version control, licensing and credit)
+3. [Week 3](CourseDevelopment/Week3/Lecture3.md): Big science (CERN, VIRGO, IPCC, ...), co-authorship and asking for credit
+4. [Week 4](CourseDevelopment/Week4/Lecture4.md): Reproducibility: documentation for reproducibility (and data storage)
+5. [Week 5](CourseDevelopment/Week5/Lecture5.md): Open design and open hardware; prototyping
+6. [Week 6](CourseDevelopment/Week6/Lecture6.md): Public engagement: story-telling and presentation; activism and trust in scientists
+7. [Week 7](CourseDevelopment/Week7/Lecture7.md): from science to business: tech transfer (including open strategies), intellectual property and the academic social contract, scipreneurship
+8. [Week 8](CourseDevelopment/Week8/Lecture8.md): The scientific process (grantwriting, scientific careers, searching for a PhD position, professional and entrepreneurial careers)
 
 For details of the topics covered in each lecture, please look at [the Syllabus](Syllabus_202x.md)
 
@@ -37,10 +37,10 @@ The exercises for this course are team-based. See [the list of assignments](Exer
 Teams will be reshuffled for each exercise so that pass/fail is individually determined by collecting a basket of satisfactory project results.
 Exercises are partially assessed by peers and partially by course coordinators and lecturers.
 
-### For testing achievement of the learning goals.
-
+**Benchmarking the learning goals:** 
 At the beginning of the course all students will fill in a questionnaire on what they understand about the academic workflow in physics.
 
+**Learning outcomes:** 
 At various occasions during the course, students are assessed for the ability to
 + reimagine their own research in an open science workflow
 + be able to set up a github project for the course, with an individual portfolio of forks of team projects

@@ -1,13 +1,13 @@
 # Open Science for Physicists, Lecture 1, Introduction
 
-+ Last updated Date: 12/JUN/2023
++ Last updated: 31 July 2023
 + Lecturer: @SanliFaez 
 
 #### Contributors: 
 + Erik van Sebille @erikvansebille
 + Hendrik Snijder @hendelhendel
 
-![Frontpage](./Week1/Chapter1.png?raw=true)
+![Frontpage](../Week1/Chapter1.png?raw=true)
 
 ## Goal: Why open science, how did we get here? 
 In this lecture, student are introduced to various definitions of open science and how people and organizations are getting there from the current state of science. 
@@ -26,7 +26,7 @@ During the breakout discussions, students are asked to reflect on the barriers t
 - The international context from the lens of [UNESCO Recommendation on Open Science](https://www.youtube.com/watch?v=I3Wkvx_ZaFo)
 - Trans-disciplinary and interdisciplinary science
 
-![5SchoolsOfOpenScience](./Week1/SchoolsofOpenscience.jpg?raw=true)
+![5SchoolsOfOpenScience](../Week1/SchoolsofOpenscience.jpg?raw=true)
 
 ### Collective activity
 After the introductory lecture, students are asked to reflect (in break-out sessions) on the new terms they have learned during the class. 
