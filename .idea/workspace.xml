@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ceee4b22-3ee0-48e5-87de-c777afec3795" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CourseDevelopment/Week4/OpenHardwareExamples.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CourseDevelopment/Week2/Dalle2.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/CourseDevelopment/Week2/Lecture2.md" beforeDir="false" afterPath="$PROJECT_DIR$/CourseDevelopment/Week2/Lecture2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CourseDevelopment/Week4/Lecture4.md" beforeDir="false" afterPath="$PROJECT_DIR$/CourseDevelopment/Week4/Lecture4.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CourseDevelopment/Week5/Lecture5.md" beforeDir="false" afterPath="$PROJECT_DIR$/CourseDevelopment/Week5/Lecture5.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CourseDevelopment/Week5/peer_evaluation_FORWHICHPROJECT.md" beforeDir="false" afterPath="$PROJECT_DIR$/CourseDevelopment/Week5/peer_evaluation_FORWHICHPROJECT.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -7,17 +7,16 @@
 + Erik van Sebille @erikvansebille
 + Hendrik Snijder @hendelhendel
 
-## MAin goal: setting up a collaborative environment
+## Main goal: orchestrating a collaborative environment
 After this week, one is familiar with the structure of a collaborative environment on Github or Gitlab, and can set a new one up.
 
 ![Depiction of Open Source Collaboration](../Week2/open-source-collaboration.png)
 from **The Turing Way** chapter [Shared Ownership in Open Source Projects](https://the-turing-way.netlify.app/collaboration/shared-ownership)
 
-## Lecture: Week 2 
 
 ### Lecture format
 
-The second lecture will have two parts. I
+The second lecture will have two parts. The tutorials are executed between the two parts of the lecture, and towards the end of the class.
 
 1. **Good enough data analysis and reporting** 
     40-minutes lecture on best practices for setting up a collaborative research environment based on the course of Dr. Barbara Vreede and [Good enough practices in scientific computing](https://doi.org/10.1371/journal.pcbi.1005510)
