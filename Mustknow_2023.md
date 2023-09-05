@@ -6,21 +6,23 @@ This note contains the specific information for the academic year 2023 for the s
 For detailed description of the lectures, check [the Syllabus](Syllabus_202x.md). The exercises for this course are team-based. See [the list of assignments](Exercises_2023.md) for the full list.
 
 ## Welcome message on Blackboard
-We are excited about this first edition of the "Open Science for Physicists". This interactive course consists of 8 lectures, given by us or external speakers, and exercises which will be performed and discussed during the sessions. Because of this interactive format, participation in the lectures are mandatory and online participation cannot be accomodated. If you are hindered on the first week, please contact the course assistant, Roosmarijn Knopper r.l.knopper@uu.nl, as soon as possible.
+We are excited about this first edition of the "Open Science for Physicists", in short OS4P. This interactive course consists of 8 lecture-days, given by us or external speakers, and exercises which will be performed and discussed during the sessions. Because of this interactive format, participation in the lectures are mandatory and online participation cannot be accomodated. If you are hindered on the first week, please contact Roosmarijn Knopper r.l.knopper@uu.nl, as soon as possible.
 
-Lectures 1, 2, 3, and 8 are common with the "Open Science for Theoretical Physics" course (ns-tp506m). The commonalities and differences between these two sister courses will be explained in more details during the first lecture.
+Lectures 1, 2, 3, and 8 are common with the "Open Science for Theoretical Physics" course (ns-tp506m). The commonalities and differences between these two sister courses will be explained in more details during the first lecture. Students who have taken ns-tp506 are also welcome to join the all the lectures in OS4P (weeks 4-7), but they have to sign up in advance on the first day.
 
-The course syllabus and exercises will be posted on the course repository (more information will follow). The crucial announcement will be posted on the Blackboard.
+The course syllabus and exercises will be posted on the course repository (more information will follow). The crucial announcements will be posted on the Blackboard.
 
 All the lectures are scheduled on Monday mornings from 9:00-12:45, starting on 11 September 2023. 
 The venue is [the Learning Plaza](https://www.uu.nl/en/education/future-learning-spaces/learning-spaces/learning-plaza) in the Minnaert building (former canteen).
+
+We look forward to teaching this course on what Open Science means for physicists, and we hope you do too!
 
 Sanli Faez, Erik van Sebille, Tanja Hinderer
 
 ## What to expect? 
 The OS4P course is about real-life skills and experiences of researchers in a rapidly evolving academic landscape. With the advancement of open science, students do not only need to update our idea of "how science works", but also need to know which tools are available and which skills will be necessary. Therefore, this course is a combination of lectures and hands-on exercises to get a good feeling of these new developments. 
-Some of the open science practices are still not widely embraced by some factions of the scientific community. These frictions will naturally influence the post-graduate career of our students. To appreciate and form an opinion on these practices, the students are sometimes deliberately faced with uncertain circumstances, just like the real world. 
-In this course, we often ask *why* a certain choice is made or practiced. Such questions are not always the most comfortable or easy to answer.  
+Some of the open science practices are still not widely embraced by some people in the scientific community. These frictions could influence the post-graduate career of our students. To appreciate and form an opinion on these practices, these dilemmas are presented to the students through discussions and hands-on assignments, which are purposedly made imperfect just like the real world. 
+In this course, we often ask *why* a certain choice is made or commonly practiced. Such questions are not always the most comfortable or easy to answer. We do out best to create a brave environment where such uncomfortable issues can be discussed openly and critically. We hope that all students engage in these discussions with curiosity and an open mind. 
 As the course emphasizes learning from engagement, which is difficult to quantify, grading is done as pass/fail.
 
 ## OS4P and OSTP
