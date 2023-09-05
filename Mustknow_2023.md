@@ -25,7 +25,7 @@ As the course emphasizes learning from engagement, which is difficult to quantif
 
 ## OS4P and OSTP
 These two courses are interlinked but follow somewhat different philosophies. OSTP is an adjusted form of the student seminar and put a higher emphasize on research skills and exploring the literature. The OS4P course encompasses a wider skill set that contains setting up measurements, public engagement, science communication, and knowledge transfer from academia to the society. There is also a larger emphasis on good documentation for reproducibility, through the practical example of a measurement project.
-Students are welcome to take each of the courses, or follow both. In the latter case, they will recieve the credits for *only one* of the two courses. 
+Students in the THPH programme are welcome to take each of the courses, or follow both. In the latter case, they will recieve the credits for *only one* of the two courses. 
 As the assignments are based on team activities, the OSTP students are kindly asked to either join ALL the 4 extra OS4P lectures if they want to follow this course through.
 
 For the final lecture, OSTP students should be aware of the necesary preparation in advance to the lecture.
