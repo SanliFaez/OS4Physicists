@@ -32,7 +32,7 @@ For the final lecture, OSTP students should be aware of the necesary preparation
 
 ## What is expected?
 To reach a deeper appreciation of the dilemma's in the way of transition to open science, we will organize a lot of group or plenary discussions. Active participation in the tutorials and discussions is more important than getting the most attention and applause for a certain exercise or project. 
-We encourage you stay curious about the topics chosen for these discussions. If somethings does not match your expectation, your are kindly asked to raise those points as soon as you feel comfortable expressing it, in the class, to the student representatives in the focus group, or directly share them with the teachers.
+We encourage you to stay curious about the topics chosen for these discussions. If something does not match your expectation, your are kindly asked to raise those points as soon as you feel comfortable expressing it, in the class, to the student representatives in the focus group, or directly share them with the teachers.
 
 ## Feedback on the course
 Since this is the first time this course is presented in this form, we are still optimizing the content of the lectures and exercises. The students' feedback are extremely important for the success of this course in the coming years. Therefore, next to the common feedback channels, we will form a focus group of students to share their feedback with us every fortnight, as we proceed. We may make adjustments to the lectures based on the discussions with these representatives. 
