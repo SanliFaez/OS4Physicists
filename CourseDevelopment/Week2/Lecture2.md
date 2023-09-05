@@ -23,7 +23,7 @@ The second lecture will have two parts. The tutorials are executed between the t
 
 2. **Project management**: 
     - Project management and using issues/labels, introduction to Getting Things Done (GTD) boards. 
-    - Some tips and suggestions effective collaboration on git platforms and the essentials of community management.
+    - Some tips and suggestions on effective collaboration using git platforms, and the essentials of community management.
 
 ## Tutorials
 Between the two lectures, students will be given a complex coding task to complete. The main objective of this exercise is to get a good feeling of what skills it takes to orchestrate a collaborative project within a limited time. 
