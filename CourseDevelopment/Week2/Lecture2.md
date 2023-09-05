@@ -36,7 +36,7 @@ The programming assignment will be based on analysing experimental data with the
 **Assignment preparation**
   + Students have to discuss in a teams on distribution of task, timing of their execution and how they are working and communication with each other. 
   + Each team should present a code and code structure that can analyze newly recorded data in the shortest time and present a final result that has the highest accuracy.
-  + Each team will reserve one fresh laptop for the finale,  
+  + Each team will reserve one fresh (i.e. no specific preparation) laptop for the finale,  
   
   **Playful finale**
 In this part, the reserved laptops will be used in a competition between the representatives of each team. The team representative that can install and run the code the fastest will be the winning team.
