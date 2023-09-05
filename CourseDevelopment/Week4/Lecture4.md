@@ -17,7 +17,7 @@ During weeks 4 and 5 of the course, students form teams to make a small computer
 
 Students will also get a tour or [Lili's proto lab](https://www.uu.nl/lpl) and get familiar with various rapid-prototyping tool, which they can use to enhance their projects.
 
-**The 5-minutes exercise:** Chose a previous report (at least 6 months old) you have written (e.g. your bachelor project) and pick a random graph that you have generated. In 5 minutes, find the data corresponding to that graph and regenerate it. What was the document structure and was it useful? Can someone else use your documents to reproduce your results?
+**The 5-minutes exercise:** Choose a previous report (at least 6 months old) you have written (e.g. your bachelor project) and pick a random graph or figure that you have generated. In 5 minutes, find the data corresponding to that graph and regenerate it. What was the documentation structure and was it useful? Can someone else use your documentation to reproduce your results?
 
 ---
 Summary of [best documentation practices by Wilson et al ](https://doi.org/10.1371/journal.pcbi.1005510)
