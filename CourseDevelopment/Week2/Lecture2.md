@@ -26,7 +26,7 @@ This week's lecture will have two parts.
 
 ## Tutorial: Week 2
 + During the dutorial, students will be given a complex coding task to complete in multiple teams, starting from forking an incomplete repository and then making the complete project work as a group! 
-+ To make sure that every student practices the basic git commands, every student is asked to to run the final program on their PC
++ To make sure that every student practices the basic git commands, every student is asked to run the final program on their PC
 
 ### Tutorial format
 **Assignment objective: learning about collaborative project development from practice**
