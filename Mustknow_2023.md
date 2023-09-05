@@ -18,7 +18,7 @@ The venue is [the Learning Plaza](https://www.uu.nl/en/education/future-learning
 Sanli Faez, Erik van Sebille, Tanja Hinderer
 
 ## What to expect? 
-The OS4P course is about real-life skills and experiences of researchers in a rapidly evolving academic landscape. With the advancement of open science, not only we need an updated look at "how science works", but also need to know which tools are available and which skills will be necessary. Therefore, this course is a combination of lectures and hands-on exercises to get a good feeling of these new developments. 
+The OS4P course is about real-life skills and experiences of researchers in a rapidly evolving academic landscape. With the advancement of open science, students do not only need to update our idea of "how science works", but also need to know which tools are available and which skills will be necessary. Therefore, this course is a combination of lectures and hands-on exercises to get a good feeling of these new developments. 
 Some of the open science practices are still not widely embraced by some factions of the scientific community. These frictions will naturally influence the post-graduate career of our students. To appreciate and form an opinion on these practices, the students are sometimes deliberately faced with uncertain circumstances, just like the real world. 
 In this course, we often ask *why* a certain choice is made or practiced. Such questions are not always the most comfortable or easy to answer.  
 As the course emphasizes learning from engagement, which is difficult to quantify, grading is done as pass/fail.
