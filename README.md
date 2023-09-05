@@ -14,9 +14,10 @@ The topics for each week are
 5. [Week 5](CourseDevelopment/Week5/Lecture5.md): Open design and open hardware; prototyping
 6. [Week 6](CourseDevelopment/Week6/Lecture6.md): Public engagement: story-telling and presentation; activism and trust in scientists
 7. [Week 7](CourseDevelopment/Week7/Lecture7.md): from science to business: tech transfer (including open strategies), intellectual property and the academic social contract, scipreneurship
-8. [Week 8](CourseDevelopment/Week8/Lecture8.md): The scientific process (grantwriting, scientific careers, searching for a PhD position, professional and entrepreneurial careers)
+8. [Week 8](CourseDevelopment/Week8/Lecture8.md): Revisiting the credibility cycle (grantwriting, scientific careers, searching for a post graduate position, professional and entrepreneurial careers, the role of open science)
 
-For details of the topics covered in each lecture, please look at [the Syllabus](Syllabus_202x.md)
+For details of the topics and lectures covered in each week, please look at [the Syllabus](Syllabus_202x.md)
+*Specific instructions for the academic year 2023-24 are listed in the [essential info](Mustknow_2023.md)*
 
 ## Learning goals:
 By following this course students make an attempt to 
@@ -56,4 +57,4 @@ Open Science for Physicists will run in block 1, and is scheduled on every Monda
 The venue is the [Learning Plaza](https://www.uu.nl/en/education/future-learning-spaces/learning-spaces/learning-plaza) in the Minnaert building Canteen, which is set up as a Future Learning Space. 
 
 ## Course materials
-The course materials will be made available on BlackBoard, and are updated during the course.
+The course materials will be made available on the course repository and are regularly updated during the course. Important announcements will also be posted on the Blackboard system.

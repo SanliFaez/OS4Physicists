@@ -40,7 +40,7 @@ On the scale of 1-5 (1: top quality, 5: disappointing) how do you assess the mea
 
 ### Interactions:
 
-1. If you had to perform work on this part of the project, would you have selected the same goal or aimed at something else? Please, explain.  
+1. If you had to work on this project instead of your own, would you have selected the same goal or aimed at something else? Please, explain.  
 2. Which instructions did you need from the owners on top of the written files?  
 3. Does the experiment accomplish its stated purpose?  
 4. What do you recommend to the project owners to improve their complete package?  

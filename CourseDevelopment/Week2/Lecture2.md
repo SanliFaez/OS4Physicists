@@ -1,5 +1,4 @@
-# Open Science for Physicists, Lecture 2, Collaborative environments
-Course Development Week 2 for the Open Science Course for physics students at graduate level. This document is based on the Syllabus.MD.
+# Open Science for Physicists, Lecture 2, Collaborative Environments
 
 + Last updated Date: 05/09/2022
 + Lecturer: @SanliFaez 
@@ -8,7 +7,7 @@ Course Development Week 2 for the Open Science Course for physics students at gr
 + Erik van Sebille @erikvansebille
 + Hendrik Snijder @hendelhendel
 
-## Goal: setting up a collaborative environment
+## Main goal: orchestrating a collaborative environment
 After this week, one is familiar with the structure of a collaborative environment on Github or Gitlab, and can set a new one up.
 
 ![Frontpage](../Week2/Chapter2.jpg)
