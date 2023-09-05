@@ -34,7 +34,7 @@ This week's lecture will have two parts.
 The programming assignment will be based on analysing experimental data with the laptop sound card and doing an experiment with Doppler shift. Elements of the code are provided to the students in a [poorly-documented directory](../Week2/mycode). Students are divided into 4 teams of about 20+ and each team should make the code useful for analyzing a new measurement. The main goal is to create a well documented repository that works on every individual PC.
 
 **Assignment preparation**
-  + Students have to discuss in a teams on distribution of task, timing of their execution and how they are working and communication with each other. 
+  + Students have to discuss in their teams on distribution of task, timing of their work, and how they will communicate during the work. 
   + Each team should present a code and code structure that can analyze newly recorded data in the shortest time and present a final result that has the highest accuracy.
   + Each team will reserve one fresh (i.e. no specific preparation) laptop for the finale,  
   
