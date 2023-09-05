@@ -57,4 +57,4 @@ Open Science for Physicists will run in block 1, and is scheduled on every Monda
 The venue is the [Learning Plaza](https://www.uu.nl/en/education/future-learning-spaces/learning-spaces/learning-plaza) in the Minnaert building Canteen, which is set up as a Future Learning Space. 
 
 ## Course materials
-The course materials will be made available on the course repository and are regularly updated during the course. Important announcement will be also posted on the Blackboard system.
+The course materials will be made available on the course repository and are regularly updated during the course. Important announcements will also be posted on the Blackboard system.
