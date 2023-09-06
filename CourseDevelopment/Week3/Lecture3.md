@@ -3,8 +3,8 @@
 + Last updated Date: 03/07/2023
 + Lecturer:  @erikvansebille
 
-#### Contributors: 
-+ Sanli Faez @SanliFaez 
+#### Contributors:
++ Sanli Faez @SanliFaez
 + Hendrik Snijder @hendelhendel
 
 
@@ -33,7 +33,7 @@ Big-science collaborations | Citizen science | Policy and politics of science | 
 ### Preparation
 At the end of the Week 2 lecture, students have been distributed in groups of 6-8, and assigned a big science collaboration to investigate, on which they will give a short presentation at the end of this lecture.
 
-While most of the work can be done during the lecture of Week3, the students are expected to have read up on what the goals and structure of their assigned collaboration is, and to have thought about how Open Science principles are implemented in the structure of the collaboration. 
+While most of the work can be done during the lecture of Week3, the students are expected to have read up on what the goals and structure of their assigned collaboration is, and to have thought about how Open Science principles are implemented in the structure of the collaboration.
 
 If they want, they can also get in touch with the contact person (communicated by the coordinators) of their big collaboration, if they have questions.
 
@@ -57,7 +57,6 @@ Presentations will receive peer-feedback.
 + [NEEM](https://neem.dk/)
 + [Astroplant](https://www.astroplant.io/)
 + [Pangeo](https://pangeo.io/)
-+ [SKA telescopes](https://www.skatelescope.org/)
 + [James Webb Space Telescope](https://www.jwst.nasa.gov/)
 + [European Centre for Medium Range Weather Forecasts](https://www.ecmwf.int/) [contact [Gert-Jan Marseille](https://www.linkedin.com/in/gert-jan-marseille-3560a110/)]
 + [Seti @ home](https://setiathome.berkeley.edu/)
@@ -68,10 +67,10 @@ Presentations will receive peer-feedback.
 Information sources listed per topic
 + **Big-science collaborations**
   + https://www.bigscience.nl/en/ilo-net/mission
-  + https://en.wikipedia.org/wiki/Big_science 
+  + https://en.wikipedia.org/wiki/Big_science
   + https://openknowledgemaps.org
   + https://www.criticalearth.eu/
-  
+
 + **Policy and politics of science**
   + https://www.degruyter.com/document/doi/10.1515/9780804781602-005/html
 
