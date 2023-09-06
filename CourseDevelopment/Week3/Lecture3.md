@@ -38,9 +38,11 @@ While most of the work can be done during the lecture of Week3, the students are
 If they want, they can also get in touch with the contact person (communicated by the coordinators) of their big collaboration, if they have questions.
 
 ### Lecture format
-The lecture will start with a (prerecorded) video lecture by [Dr Niels Martens](https://www.uu.nl/staff/ncmmartens), who will discuss the epistemology of scientific collaborations. He will discuss examples of 'big science' projects such as CERN and the Next Generation Event Horizon Telescope (ngEHT). 
+The lecture will start with a two-part (prerecorded) video lecture by [Dr Niels Martens](https://www.uu.nl/staff/ncmmartens), who will discuss the epistemology of scientific collaborations.
 
-He will especially focus on ways to manage the large number of co-authors that are involved in these projects and how to create policies for giving just credit.
+In the first part of the lecture (See [this Youtube link](https://www.youtube.com/watch?v=M1giIxeLuIg)), he discusses examples of 'big science' projects such as CERN and the Next Generation Event Horizon Telescope (ngEHT).
+
+In the second part of the lecture (see [this YouTube link](https://www.youtube.com/watch?v=DRt1uTytWf8)), he especially focuses on ways to manage the large number of co-authors that are involved in these projects and how to create policies for giving just credit.
 
 
 ### Assignment
