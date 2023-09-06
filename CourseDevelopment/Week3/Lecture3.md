@@ -59,7 +59,7 @@ Presentations will receive peer-feedback.
 + [NEEM](https://neem.dk/)
 + [Astroplant](https://www.astroplant.io/)
 + [Pangeo](https://pangeo.io/)
-+ [James Webb Space Telescope](https://www.jwst.nasa.gov/)
++ [James Webb Space Telescope](https://www.jwst.nasa.gov/) [contact [Inga Kamp](https://www.rug.nl/staff/i.e.e.kamp/)]
 + [European Centre for Medium Range Weather Forecasts](https://www.ecmwf.int/) [contact [Gert-Jan Marseille](https://www.linkedin.com/in/gert-jan-marseille-3560a110/)]
 + [Seti @ home](https://setiathome.berkeley.edu/)
 
