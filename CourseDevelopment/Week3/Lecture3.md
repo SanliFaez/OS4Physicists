@@ -61,7 +61,8 @@ Presentations will receive peer-feedback.
 + [Pangeo](https://pangeo.io/) [contact [Ryan Abernathey](https://eesc.columbia.edu/content/ryan-abernathey)]
 + [James Webb Space Telescope](https://www.jwst.nasa.gov/) [contact [Inga Kamp](https://www.rug.nl/staff/i.e.e.kamp/)]
 + [European Centre for Medium Range Weather Forecasts](https://www.ecmwf.int/) [contact [Gert-Jan Marseille](https://www.linkedin.com/in/gert-jan-marseille-3560a110/)]
-+ [Seti @ home](https://setiathome.berkeley.edu/)
++ [Quantum Delta NL](https://quantumdelta.nl) [contact [Victor Land](https://www.cwi.nl/en/people/victor-land/)]
++ [Cosmic-Ray Extremely Distributed Observatory (CREDO)](https://credo.science/homola/credo/)
 
 
 
