@@ -56,7 +56,7 @@ Presentations will receive peer-feedback.
 + [Intergovernmental Panel on Climate Change](http://ipcc.ch/) [contact [Aimée Slangen](https://www.nioz.nl/en/about/organisation/staff/aimee-slangen)]
 + [ALICE experiment at CERN](https://atlas.cern) [contact [Alessandro Grelli](https://www.uu.nl/staff/AGrelli)]
 + [Virgo](https://www.virgo-gw.eu) [contact [Chris van den Broeck](https://www.uu.nl/staff/cffvandenbroeck1)]
-+ [NEEM](https://neem.dk/)
++ [NEEM](https://neem.dk/) [contact [Carina van der Veen](https://www.uu.nl/staff/CvanderVeen/)]
 + [Astroplant](https://www.astroplant.io/)
 + [Pangeo](https://pangeo.io/) [contact [Ryan Abernathey](https://eesc.columbia.edu/content/ryan-abernathey)]
 + [James Webb Space Telescope](https://www.jwst.nasa.gov/) [contact [Inga Kamp](https://www.rug.nl/staff/i.e.e.kamp/)]
