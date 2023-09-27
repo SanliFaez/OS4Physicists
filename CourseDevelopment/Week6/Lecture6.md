@@ -70,7 +70,7 @@ The schedule for the lecture is as follows:
 2. Students then convert this abstract/summary into a layperson summary. They can use the [template](layperson_summary_template.md) provided in this repository.
 3. Students read each other's layperson summaries and give feedback on the use of jargon, the use of metaphors, communicating uncertainty and narratives and framing.
 4. Students rewrite their layperson summary based on the feedback they received.
-5. Students check their revised layperson summary for understandability and jargon (using the Flesch Reading Ease Score) with a language-check tool (e.g. https://github.com/textstat/textstat)
+5. Students check their revised layperson summary for understandability and jargon (using the Flesch Reading Ease Score) with a language-check tool (e.g. by locally installing the tool at https://github.com/textstat/textstat)
 
 **Assignment submission**: Students submit a gitlab merge request with their original abstract, their original layperson summary, the feedback they received from their peers, their revised layperson summary, and the output from the language-check tool.
 
