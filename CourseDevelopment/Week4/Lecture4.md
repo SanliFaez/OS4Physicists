@@ -7,16 +7,17 @@
 + Erik van Sebille @erikvansebille
 + Hendrik Snijder @hendelhendel
 
+
 ## Goal: documenting a real experiment for replication and reproducibility 
 
 ![Project documentation illustrated as a roadmap](reproducibility.jpg)
 [The Turing Way project](https://the-turing-way.netlify.app/reproducible-research/reproducible-research) illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.
 
-
 Student teams start with their measurement projects. They will also define the goal of their experiemtn and the analysis procedures, create the proper documentation folder.
 
 *The documentation of each project must be sufficient for another team to replicate the measurement, and reproduce the first teams' results, _only_ based on the shared documentation, _without_ talking to the project owners.*
 
+---
 
 Summary of [best documentation practices by Wilson et al ](https://doi.org/10.1371/journal.pcbi.1005510)
 
@@ -107,7 +108,8 @@ In the following week, another student team will try to reproduce your measureme
 + Check these [peer review instructions](../Lectures/Week5/peer_evaluation_COMMENTonISSUE.md) before finalizing your documentation. Other teams will be asked to follow these instructiosn for reviewing and replicating your work.
 + Invite other people to check your documentation for clarity and sufficiency.
 + Separate the instructions for reproducing your results from those for replicating the measurement
-
+---
+ 
 ## Information Sources / Bibliography
 + **Best practices:**  Wilson G, Bryan J, Cranston K, Kitzes J, Nederbragt L, et al. (2017) [Good enough practices in scientific computing](https://doi.org/10.1371/journal.pcbi.1005510) PLOS Computational Biology 13(6): e1005510. 
 + **Version control:** Blischak JD, Davenport ER, Wilson G (2016) [A Quick Introduction to Version Control with Git and GitHub](https://doi.org/10.1371/journal.pcbi.1004668), PLOS Computational Biology 12(1): e1004668.  
@@ -117,3 +119,4 @@ In the following week, another student team will try to reproduce your measureme
   + https://dmeg.cessda.eu/Data-Management-Expert-Guide/6.-Archive-Publish/Data-publishing-routes
   + http://opendatahandbook.org/guide/en/
   + https://www.cos.io/initiatives/top-guidelines
+
