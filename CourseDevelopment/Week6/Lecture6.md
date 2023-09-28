@@ -75,7 +75,7 @@ The schedule for the lecture is as follows:
 
 **Assignment submission**: Students submit a gitlab merge request with their original abstract, their original layperson summary, the feedback they received from their peers, their revised layperson summary, and the output from the language-check tool.
 
-**Assignment grading**: The students receive a pass if they submit a layperson summary that passes the language-check tool (i.e. a minimal score of 75).
+**Assignment grading**: The students receive a pass if they submit a layperson summary that passes the language-check tool. To pass, the text has to have an [Automated Readibility Index](https://en.wikipedia.org/wiki/Automated_readability_index) of less than 13.0 (i.e. undertandable for 18-year-olds).
 
 ## Information Sources / Bibliography
 Information sources listed per topic
