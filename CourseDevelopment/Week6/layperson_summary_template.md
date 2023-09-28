@@ -18,6 +18,6 @@ _Copy the feedback received from the peer student here_
 
 _Copy the final, revised layperson summary here_
 
-## Flesch Reading Ease Score
+## Automated Readibility Score
 
 _As determined by e.g. the [textstat language-check tool](https://github.com/textstat/textstat)_
