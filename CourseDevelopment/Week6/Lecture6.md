@@ -1,12 +1,11 @@
 # Open Science for Physicists, Lecture 6, Public engagement
 
 + Last updated Date: 27/09/2023
-+ Lecturer:  @erikvansebille
++ Lecturer:  @erikvansebille and Julia Cramer
 
 #### Contributors:
 + Sanli Faez @SanliFaez
 + Hendrik Snijder @hendelhendel
-+ Julia Cramer
 
 ## Goal: public engagement: the role of scientists in society; activism and trust in scientists; story-telling and presentation
 After this week, students understand the role, responsibilities and interaction of scientists with scientific communities and the general public.
@@ -35,6 +34,8 @@ Some of the keywords in syllabus.MD are supposed to be new, while some are most 
 1. Every student reads the article by [Kirstensen _et al_ (2021)](https://jcom.sissa.it/archive/20/07/JCOM_2007_2021_A02) about how physics is represented in Dutch newspapers.
 
 2. Every student comes with a short text (between 200 and 500 words) that they've written in the past, for example the abstract of their bachelor thesis.
+
+3. Every student comes up with or finds a metaphore for a certain aspect of physics (e.g., black holes, turbulence, Brownian motion, ...) and forms an opinion about why that metaphore is needed and how well it captures the actual physics aspect. 
 
 ## Lecture
 
@@ -66,7 +67,7 @@ The schedule for the lecture is as follows:
 **Assignment objective**: Write a layperson summary of your research that is understandable for a general audience.
 
 **Assignment description**
-1. Students individually bring (or write) abstract/summary of 200-500 words for a previous project (e.g. their Bachelor thesis; if they don't have that they can choose a future project).
+1. Students individually bring (or write) an abstract/summary of 200-500 words for a previous project (e.g. their Bachelor thesis; if they don't have that they can choose a future project).
 2. Students then convert this abstract/summary into a layperson summary. They can use the [template](layperson_summary_template.md) provided in this repository.
 3. Students read each other's layperson summaries and give feedback on the use of jargon, the use of metaphors, communicating uncertainty and narratives and framing.
 4. Students rewrite their layperson summary based on the feedback they received.
