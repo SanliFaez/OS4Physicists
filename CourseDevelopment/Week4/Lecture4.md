@@ -77,11 +77,11 @@ e. **Keeping track of changes**
 	 
 ### Assignment Executions
 1. Form a team of 3 or 4 members and think of a measurement project that satisfies the requirements below.
-2. Create an issue on the course repository and specify: a- your measurement goal, b- your team members
-3. Clone the course repository on your computer and create your project folder structure on your local repo.
+2. Create an issue on the course repository using the [issue template for the measurement project](./issue_templates/measurement_project.md) and label it as "project in progress".
+3. Clone the course repository on your computer and create your project folder structure on your local repo. You can use the provided folder structure but do not forget to personalize all readme files.
 4. Perform your measurement and document it with instructions for replication in a subfolder under [projects](./projects/). Respect the required name convention.
 5. Submit your assignment as a merge request to the course repository.
-6. After your merge request is accepted, add a hyperlink to your project folder to the main text of your project issue and label it as "Ready for replication". 
+6. After your merge request is accepted, add a hyperlink to your project folder in your project issue and label the issue as "ready to reproduce". 
 
 ### Project minimal requirements 
 
