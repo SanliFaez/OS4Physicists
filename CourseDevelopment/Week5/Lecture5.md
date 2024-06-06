@@ -11,13 +11,13 @@
 After this week, one is familiar with the concept of open science in hardware development. Students get familiar with finding open hardware recipes and know how to contribute to them. After the lecture students can explain in a discussion what challenges open hardware can solve and what socio-economic issues are involved. 
 
 ![Frontpage](LINK TO PICTURE)
-![image](https://user-images.githubusercontent.com/93695286/221529025-cc8a838e-f1d7-4a2d-b538-8bc0a939a538.png)
+
 
 ## Tutorial: reproducing project and peer evaluation
 In the first part of the course, students have to reproduce the projects of another team, solely based on their documentation, and write are report based on [this template](peer_evaluation_FORWHICHPROJECT.md). This exercise will take about 75 minutes.
 
 ## Lecture: Week 5 
-"Open hardware for the Common Good", Plenary talk for the PSSOH 2023 conference.
+
 
 **keywords:** Scientific design environments, University knowledge transfer, Open protocols, Sustainably development, Automation and bots, Remote labs, Materials-resources-constraints, Defense and national security, Maintenance, Prototyping
 
@@ -49,8 +49,7 @@ micro-controllers (Rasberry pi )
 
 Journal: HardwareX (=open access hardware)
 + Open hardware: https://en.wikipedia.org/wiki/List_of_open-source_hardware 
-+ Remote Laboratory:
-+ https://remotelaboratory.com/remote-laboratories/what-are-remote-laboratories/ 
++ Remote Laboratory: https://remotelaboratory.com/remote-laboratories/what-are-remote-laboratories/ 
 
 Open technology course:
 + https://free-and-open-technologies.github.io/ 
@@ -65,7 +64,6 @@ Design environment:
 Open protocols: (Software focus) 
 + https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:the-internet/xcae6f4a7ff015e7d:developing-open-protocols/a/open-standards-and-protocols 
 + https://www.open.edu/openlearncreate/mod/oucontent/view.php?id=129583&printable=1 
-
 
 Materials-resources-constraints
 + materials: https://openmaterialsdb.se/ 
