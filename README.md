@@ -6,18 +6,9 @@ In Open Science for Physicists (OS4P), students evaluate the best practices, con
 used by physicists in their professional activities and workflow, working either inside or outside academia .
 
 ## Covered Topics:
-The topics for each week are
-1. [Week 1](CourseDevelopment/Week1/Lecture1.md): Why open science, how did we get here?  
-2. [Week 2](CourseDevelopment/Week2/Lecture2.md): Setting up a collaborative environment (readme, templates, community rules, version control, licensing and credit)
-3. [Week 3](CourseDevelopment/Week3/Lecture3.md): Big science (CERN, VIRGO, IPCC, ...), co-authorship and asking for credit
-4. [Week 4](CourseDevelopment/Week4/Lecture4.md): Reproducibility: documentation for reproducibility (and data storage)
-5. [Week 5](CourseDevelopment/Week5/Lecture5.md): Open design and open hardware; prototyping
-6. [Week 6](CourseDevelopment/Week6/Lecture6.md): Public engagement: story-telling and presentation; activism and trust in scientists
-7. [Week 7](CourseDevelopment/Week7/Lecture7.md): from science to business: tech transfer (including open strategies), intellectual property and the academic social contract, scipreneurship
-8. [Week 8](CourseDevelopment/Week8/Lecture8.md): Revisiting the credibility cycle (grantwriting, scientific careers, searching for a post graduate position, professional and entrepreneurial careers, the role of open science)
 
-For details of the topics and lectures covered in each week, please look at [the Syllabus](Syllabus_202x.md)
-*Specific instructions for the academic year 2023-24 are listed in the [essential info](Mustknow_2023.md)*
+For details of the topics and lectures covered in each week, please look at [the Syllabus](Syllabus_2024.md)
+*Specific instructions for the academic year 2024-25 are listed in the [essential info](Mustknow_2024.md)*
 
 ## Learning goals:
 By following this course students make an attempt to 
@@ -25,15 +16,15 @@ By following this course students make an attempt to
 2. learn to set up and contribute to digital collaborative environments like GitHub repositories
 3. understand the structure of big collaborations like CERN, and how to optimally function in such an organizational system
 4. learn to set up a reproducible research environment for their projects
-5. learn to develop a prototype for a measuring device
-6. understand the role, responsibilities and interaction of scientists with scientific communities and the general public
-7. appreciate the business opportunities for scientists outside academia
+5. learn to develop a prototype for a measurement experiment
+6. understand the role, responsibilities and interactions of scientists with scientific communities and the general public
+7. appreciate diverse opportunities for knowledge transfer that are compatible with open science
 8. understand the current scientific process and career paths.
 
 Note that each learning goal maps directly onto the equivalent topic above.
 
 ## Assessment
-The exercises for this course are team-based. See [the list of assignments](Exercises_2023.md) for the full list.
+The exercises for this course are team-based.
 
 Teams will be reshuffled for each exercise so that pass/fail is individually determined by collecting a basket of satisfactory project results.
 Exercises are partially assessed by peers and partially by course coordinators and lecturers.
@@ -53,8 +44,8 @@ At various occasions during the course, students are assessed for the ability to
 + reflect on changes in their understanding of the scientific process in comparison with the pre-course questionnaire
 	
 ## Scheduling
-Open Science for Physicists will run in block 1, and is scheduled on every Monday morning from 9:00-12:45, between 11 September and 30 October. 
-The venue is the [Learning Plaza](https://www.uu.nl/en/education/future-learning-spaces/learning-spaces/learning-plaza) in the Minnaert building Canteen, which is set up as a Future Learning Space. 
+
+TBA
 
 ## Course materials
 The course materials will be made available on the course repository and are regularly updated during the course. Important announcements will also be posted on the Blackboard system.
