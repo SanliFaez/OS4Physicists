@@ -2,44 +2,37 @@
 
 ### Students:
 + Actively participate in the lectures and cohort meetings
-+ Perform the projects in teams and present the results
-+ Organise the mentor and expert meetings
-+ Report on their progress to the course coordinator
-	
-### Mentors:
-+ Regularly monitor the progress of the project (30 minutes/week)
-+ Provide advice on project steps or suggest an expert or reading materials
-+ Provide feedback to the mentee to consider
-+ Provide feedback to the course coordinator at the end of the course 
++ Perform the projects in teams and present their results
++ Provide timely feedback when they face difficulty with following the assignment instructions 
 
-### Experts:
+### Teaching assistants (TA):
 + Occasionally provide advice for some steps in the project
 + Troubleshoot or assist the students to solve technical issues
++ Monitor the students progress
 
 ### Lecturers:
 + Present inspiring lectures on the selected topics
 + Provide a list of reading material for peer-instructions
-+ When necessary, moderate the peer-instruction sessions
++ When required, moderate the peer-instruction sessions
 
 ### Coordinators:
 + Organise the lectures time-table
-+ Monitor the students progress
 + Moderate the cohort meetings
 + Assign the final grades
 
-## Expectations for a mentor-student relationship:
+## Expectations for a lecturer/TA-student relationship:
 
 #### Students are responsible for:  
-+ Organising the mentor and expert meetings. 
-+ Reporting on their progress to the mentor and the course coordinators. 
++ Asking for help or clarification. 
++ Reporting on their progress to the TA and the course coordinators. 
 
-#### Mentors are asked to:  
+#### TAs are asked to:  
 + Regularly monitor the progress of the project (8 sessions, 30 minutes each). 
 + Provide advice on project steps or suggest an expert or reading materials when needed. 
 + Provide feedback to the students to consider. 
 + Provide feedback to the course coordinator at the end of the course.
 
-## Recommended to mentors
+## Recommendations for TAs
 
 ### Do
 + Create a comfortable environment that allows individuals to share ideas openly. 
