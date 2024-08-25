@@ -1,66 +1,45 @@
-# Open Science for Physicists, Lecture [number] , [main topic]
+# Open Science for Physicists, Lecture 1, The Open Science Ethos
 
-+ Last updated: DD MM 20YY
++ Last updated: 25 08 2024
 + Lecturer: @SanliFaez 
 
 #### Contributors: 
 + Erik van Sebille @erikvansebille
 + Hosein Nemati
 
-
 ## Development goal
-
-## Motivation: Why open science, how did we get here? 
-In this lecture, student are introduced to various definitions of open science and how people and organizations are getting there from the current state of science. 
-After the introducing different schools of open science students are encouraged to take a point of view on the relation of each classification to their potential future projects and to name consequences of open science for their careers, and for science in general. 
-Besides that, the international context and access to scientific knowledge will be discussed, as well as the opposition to the inacted new research policies in connection with open science and the new system of recognition in academia. 
-During the breakout discussions, students are asked to reflect on the barriers they see in realization of open science ideals.
-
-## Vision of outcome
-
-## Embedding/community
-
-## Methods/exercises
-
-## Evaluation
-
-
-## Lecture: Week 1 
-**Topics covered in lecture**
-- Five schools of Open Science 
-- Current state of the conversation (NL, UU, Physics) 
-- Access and academic emancipation
-- Community-Discipline-Employer
-- Laboratory life 
-- The international context from the lens of [UNESCO Recommendation on Open Science](https://www.youtube.com/watch?v=I3Wkvx_ZaFo)
-- Trans-disciplinary and interdisciplinary science
+To gather enough knowledge about the recent history of the open science movement in order to appreciate the necessity of taking an informed position and taking the necessary steps towards mastering the needed skills.
 
 ![5SchoolsOfOpenScience](../Week1/SchoolsofOpenscience.jpg?raw=true)
 
-### Collective activity
-+ During the introductory lecture, students are asked to collect the terms and concepts they have heard about for the first time, in this lecture. 
-+ In break-out sessions they will discuss these new terms and the role they percieve for these concepts in their past and future work. 
-+ In the plenary session, they are asked to express their point of view on the requirements and barriers for the transformation to open science.
+## Motivation: Why open science, how did we get here? 
+Adopting and implementing open science practices in academia has entered mainstream science policy discussions for at least a decade. Despite several national and international efforst, there are still several persistent misrepresentations of the basic open science needs and achievements. 
+In this lecture, student are introduced to various aspects of open science and how people and organizations are getting there from the current state of science. 
+After the introducing different schools of open science students are encouraged to take a point of view on the relation of each classification to their potential future projects and to name consequences of open science for their careers, and for science in general. 
+Besides that, the international context and access to scientific knowledge will be discussed, as well as the opposition to the inacted new research policies in connection with open science and the new system of recognition in academia. 
 
-#### Example of classifying concepts from the lecture material
-|**New Concepts**|**Familiar Concepts**|
-|----------------|---------------|
-| Inclusive science | Research infrastructure |
-| Open licenses | Sharing software |
-| Reproducibility | Traditional science |
-| Social impact | Paywall |
-| Accessibility | Quality of research |
-| Community-Discipline-Employer | |
+## Vision of outcome
++ Course participants are able to engage in an informed discussion about the requirements and achievements of the open science movement
++ Course participants are aware of the sociological barriers to adopting open science practices and the collective actions necessary to overcome those
++ Course participants can appreciate the logical reasoning behind choosing the selection of topics that are covered in this course.
 
-Students will be asked to keep a list like this in the first part of the lecture and reflect on their list during the collective exercise activity.
+## Embedding/community
+In this lecture we will discuss the advancement of the open science movement in the international and national context. We will cover the national and university-wide organizational aspects and present some disciplinary positive and negative examples from recent years in the physics community.
 
+## Methods/exercises
++ The lecturer will present the [slides]() covering:
+    - Increasing complexity of scientific challenges
+    - Five schools of Open Science 
+    - Current state of the open science conversation (NL, UU, Physics) 
+    - Access to knowledge and academic emancipation
+    - Community-Discipline-Employer
+    - The credibility cycle and "laboratory life"
++ After the lecture, students are asked to listen to [a podcast episode]() and answer some questions about the content of the podcast. 
 
-## Exercises: Week 1
-
-Apart from the student activities around the main goal of this lecture, students will work on two small exercises to get prepared for the rest of the course, 
-
-+ Beginning of the lecture: subscribing to the course gitlab repository and practicing basics of git for handling the course assignments,
-+ Towards the end: Writing a Code of Conduct for this course based on [this template](./Week1/CODE_OF_CONDUCT_template.md)
+## Evaluation and tutorials
++ During the introductory lecture, students are asked to collect the terms and concepts they have heard about for the first time, in this lecture. During the breakout discussions, students are asked to reflect on why they have not learned about these concepts before and the barriers they see in realization of open science ideals.
++ Introduction to Gitlab: subscribing to the course gitlab repository and practicing basics of git for handling the course assignments,
++ Community building exercise: Writing a Code of Conduct for this course based on [this template](./Resources/CODE_OF_CONDUCT_template.md)
 
 ## Information Sources / Bibliography
 Information sources listed per topic
@@ -83,6 +62,7 @@ Information sources listed per topic
     + https://www.apa.org/monitor/2021/11/career-open-science 
     + [Easing Into Open Science: A Guide for Graduate Students and Their Advisors](https://doi.org/10.1525/collabra.18684)
 + International context
+    + https://science.nasa.gov/open-science
     + https://on.unesco.org/openscience
     + https://peerj.com/preprints/2689v1/
 + Trans-disciplinary and interdisciplinary science
@@ -90,7 +70,4 @@ Information sources listed per topic
     + https://www.uu.nl/en/research/transdisciplinary-field-guide/get-started/why-transdisciplinary-research 
 + Other
     + https://www.unesco.org/en/natural-sciences/open-science 
-    + https://digital-strategy.ec.europa.eu/en/library/open-innovation-open-science-open-world 
-    + https://www.openscience.nl/ 
     + https://elifesciences.org/articles/16800 
-    + https://www.youtube.com/c/CenterforOpenScience
