@@ -24,7 +24,8 @@ The (physics) research community is the main community that should be considered
 ## Methods/exercises
 **Topics covered in lecture**
 + Remote Hosts such as GitLab or GitHub, and how to use them for collaborative work
-+ Branches, merging, and resolving conflicts; Pull Requests, Issues and code reviews
+    + Branches, merging, and resolving conflicts
+    + Pull Requests, Issues, labels and code reviews
 + Readme, templates, community rules, licensing and credit
 
 ## Evaluation
@@ -43,9 +44,3 @@ Students will be grouped in threes and asked to create a repository on GitLab an
 
 + Project management and Getting Things Done (GTD)
     + https://gettingthingsdone.com/resources/
-
-+ Version control
-    + Blischak JD, Davenport ER, Wilson G (2016) A Quick Introduction to Version Control with Git and GitHub. PLOS Computational Biology 12(1): e1004668. https://doi.org/10.1371/journal.pcbi.1004668
-
-+ Introduction to Github
-    + https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV
