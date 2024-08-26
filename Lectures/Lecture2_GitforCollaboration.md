@@ -36,6 +36,15 @@ Students will be grouped in threes and asked to create a repository on GitLab an
 
 ## Information Sources / Bibliography
 
++ Version control
+    + Blischak JD, Davenport ER, Wilson G (2016) A Quick Introduction to Version Control with Git and GitHub. PLOS Computational Biology 12(1): e1004668. https://doi.org/10.1371/journal.pcbi.1004668
+
++ Introduction to Github
+    + https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV
+
++ Introduction and tutorials to GitLab
+    + https://docs.gitlab.com/ee/tutorials/
+
 + Licensing and receiving credit
     + https://www.youtube.com/watch?v=vAQghXQApPU
 
