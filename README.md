@@ -60,7 +60,7 @@ At various occasions during the course, students are assessed for the ability to
 + reflect on changes in their understanding of the scientific process and the role of open science
 	
 ## Scheduling
-Open Science for Physicists will run in period 1, and is scheduled on every Thursday afternoon from 13:00-12:45, between September 12th and November 1st. 
+Open Science for Physicists will run in period 1, and is scheduled on every Thursday afternoon from 13:15-17:00, between September 12th and November 1st. 
 
 ## Course materials
 The course materials will be made available on the course repository and are regularly updated during the course. Important announcements will also be posted on the UU Blackboard system.
