@@ -25,7 +25,7 @@ The (physics) research community is the main community that should be considered
 **Topics covered in lecture**
 + Remote Hosts such as GitLab or GitHub, and how to use them for collaborative work
     + Branches, merging, and resolving conflicts
-    + Pull Requests, Issues, labels and code reviews
+    + Pull Requests, Issues, labels, unit testing/continuous integration and code reviews
 + Readme, templates, community rules, licensing and credit
 
 ## Evaluation
