@@ -10,7 +10,7 @@
 ## Development goal
 To gather enough knowledge about the recent history of the open science movement in order to appreciate the necessity of taking an informed position and taking the necessary steps towards mastering the needed skills.
 
-![5SchoolsOfOpenScience](../Week1/SchoolsofOpenscience.jpg?raw=true)
+![5SchoolsOfOpenScience](../Resources/SchoolsofOpenscience.jpg?raw=true)
 
 ## Motivation: Why open science, how did we get here? 
 Adopting and implementing open science practices in academia has entered mainstream science policy discussions for at least a decade. Despite several national and international efforst, there are still several persistent misrepresentations of the basic open science needs and achievements. 
@@ -39,7 +39,7 @@ In this lecture we will discuss the advancement of the open science movement in 
 ## Evaluation and tutorials
 + During the introductory lecture, students are asked to collect the terms and concepts they have heard about for the first time, in this lecture. During the breakout discussions, students are asked to reflect on why they have not learned about these concepts before and the barriers they see in realization of open science ideals.
 + Introduction to Gitlab: subscribing to the course gitlab repository and practicing basics of git for handling the course assignments,
-+ Community building exercise: Writing a Code of Conduct for this course based on [this template](./Resources/CODE_OF_CONDUCT_template.md)
++ Community building exercise: Writing a Code of Conduct for this course based on [this template](../Resources/CODE_OF_CONDUCT_template.md)
 
 ## Information Sources / Bibliography
 Information sources listed per topic
