@@ -28,8 +28,9 @@ Beyond academia, open hardware has the potential to radically transform science,
 ### Assignment Executions
 1. Form a team of 3 or 4 members and think of a measurement project that satisfies the requirements below.
 2. One person from each team should create an issue on the course repository and specify: a- your measurement goal, b- your team members
-3. Clone the course repository on your computer and create your project folder structure on your local repo by copying `ProjectName_Team_MAKEaCOPY` and adjusting the name.
-4. Perform your measurement and document it with instructions for replication in a subfolder under [projects](./projects/). Respect the required name convention.
+3. Clone the course repository on your computer and create your project folder structure in your local repo, *isnside the `./Projects/`* subfolder, by copying `_template_ProjectName_Team_MAKEaCOPY` folder from [The resources directory](../Resources) and adjusting the name. 
+	+ NOTE: Do NOT edit the `_template` folder. It is important to put all projects in the mentioned subfolder to maintain the structure of the course repository and avoid merge conflicts. 
+4. Perform your measurement and document it with instructions for replication in your subfolder under [projects](./projects/). Respect the required name convention.
 5. Submit your assignment as a merge request to the course repository.
 6. After your merge request is accepted, add a hyperlink to your project folder to the main text of your project issue and label it as "Ready for replication". 
 
