@@ -8,7 +8,7 @@
 + Hosein Nemati
 
 ## Development goal
-To gather enough knowledge about the recent history of the open science movement in order to appreciate the necessity of taking an informed position and taking the necessary steps towards mastering the needed skills.
+To gather enough knowledge about the recent history of the open science movement in order to appreciate the necessity of taking an informed position about open science, and taking the necessary steps towards mastering the needed skills.
 
 ![5SchoolsOfOpenScience](../Resources/SchoolsofOpenscience.jpg?raw=true)
 
