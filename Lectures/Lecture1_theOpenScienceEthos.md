@@ -16,7 +16,7 @@ To gather enough knowledge about the recent history of the open science movement
 Adopting and implementing open science practices in academia has entered mainstream science policy discussions for at least a decade. Despite several national and international efforts, there are still several persistent misrepresentations of the open science basic demands and main achievements. 
 In this lecture, student are introduced to a brief history of open science and how people and organizations are dealing with this global transformation of science. 
 After the introducing different schools of open science students are encouraged to take a point of view on the relation of each classification to their potential future projects and to name consequences of open science for their careers, and for science in general. 
-Besides that, the international context and especially fair access to scientific knowledge will be discussed, as well as the opposition to the inacted new research policies in connection with the open science movement and the new system of recognition in academia. 
+Besides that, the international context of (and in particular fair access to) scientific knowledge will be discussed, as well as the opposition to the inacted new research policies on open science in connection with the open science movement and the new system of recognition and rewards in academia. 
 
 ## Vision of outcome
 + Course participants are able to engage in an informed discussion about the requirements and achievements of the open science movement
