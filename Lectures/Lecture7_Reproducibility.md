@@ -13,7 +13,7 @@ Obtaining an intrinsic motivation to documenting the project for replication and
 
 [The Turing Way project](https://the-turing-way.netlify.app/reproducible-research/reproducible-research) illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.
 
-Student teams start with their measurement projects. They will also define the goal of their experiment and the analysis procedures, and create the proper documentation folder.
+Student teams aim to reproduce a project from their peers from week 4. They will also review the documentation of the project and their experiences with reproducing the experiment.
 
 ## Motivation: 
 Journaling and reporting, to self or colleagues, are a essential part of the scientific inquiry and an undismissible part of the credibility cycles. 
