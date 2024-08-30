@@ -1,6 +1,5 @@
-# Open Science for Physicists, Lecture 4 , Open Innovation
-
-+ Last updated: 26 08 2024
+# Open Science for Physicists, Lecture 4 , Open and Collaborative Innovation 
++ Last updated: 30 08 2024
 + Lecturer: e.g. @SanliFaez 
 
 #### Contributors: 
@@ -15,8 +14,11 @@ Open hardware is an essential pillar of open science, because there is little ch
 
 Beyond academia, open hardware has the potential to radically transform science, education, and society by facilitating collaborative innovation and democratizing access to technology. It can massively accelerate the transition of an invention into a useful product, and simultaneously reduce costs and promote sustainable practices.
 
+The collaborative skills needed for open projects are very close to those needed for thriving in high tech companies. These lessons are thus also useful for those who are choosing a conventional path in research and development.
+
 ## Vision of outcome
 + Based on the lecture, students are informed about open innovation as a method of knowledge transfer. They will also ellaborate on the potential use of their own research and scholarly work outside their discipline.
++ In the guest lecture, we will learn more about the organization of big collaborations in a high-tech company and the importance of regular communication and engagement with stakeholders for the successful implementation of new creative ideas.
 + During the assignment, students will create a measurement project of their own and document it with the goal of perfect reproducibility. These projects will be used as a resource for the reproducibility exercise on week 7 of the course. 
 
 ## Embedding/community
@@ -28,9 +30,9 @@ Beyond academia, open hardware has the potential to radically transform science,
 ### Assignment Executions
 1. Form a team of 3 or 4 members and think of a measurement project that satisfies the requirements below.
 2. One person from each team should create an issue on the course repository and specify: a- your measurement goal, b- your team members
-3. Clone the course repository on your computer and create your project folder structure in your local repo, *isnside the `./Projects/`* subfolder, by copying `_template_ProjectName_Team_MAKEaCOPY` folder from [The resources directory](../Resources) and adjusting the name. 
+3. Clone the course repository on your computer and create your project folder structure in your local repo, *inside the `../Projects/`* subfolder, by copying `_template_ProjectName_Team_MAKEaCOPY` folder from [The resources directory](../Resources) and adjusting the name. 
 	+ NOTE: Do NOT edit the `_template` folder. It is important to put all projects in the mentioned subfolder to maintain the structure of the course repository and avoid merge conflicts. 
-4. Perform your measurement and document it with instructions for replication in your subfolder under [projects](./projects/). Respect the required name convention.
+4. Perform your measurement and document it with instructions for replication in your subfolder under [Projects](../Projects). Respect the required name convention.
 5. Submit your assignment as a merge request to the course repository.
 6. After your merge request is accepted, add a hyperlink to your project folder to the main text of your project issue and label it as "Ready for replication". 
 
@@ -59,7 +61,7 @@ Beyond academia, open hardware has the potential to radically transform science,
 + Separate the instructions for reproducing your results from those for replicating the measurement
 
 ## Evaluation
-In week 7, another student team will try to reproduce your measurement and will write a feedback report based on the [peer-evaluation template](../Resources/peer_evaluation_FORWHICHPROJECT.md)
+During week 7, another student team will try to reproduce your measurement and will write a feedback report based on the [peer-evaluation template](../Resources/peer_evaluation_FORWHICHPROJECT.md)
 	 
 
 ## Information Sources / Bibliography
