@@ -13,7 +13,8 @@ Obtaining an intrinsic motivation to documenting the project for replication and
 
 [The Turing Way project](https://the-turing-way.netlify.app/reproducible-research/reproducible-research) illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.
 
-Student teams aim to reproduce a project from their peers from week 4. They will also review the documentation of the project and their experiences with reproducing the experiment.
+Good documentation is mostly an exercise in empathy, and experiencing that feeling is the main goal of the exercise of this lecture. 
+
 
 ## Motivation: 
 Journaling and reporting, to self or colleagues, are a essential part of the scientific inquiry and an undismissible part of the credibility cycles. 
@@ -35,9 +36,10 @@ What type of feedback do you feel you will get for your documentation?
 
 
 ## Vision of outcome
+Student teams aim to reproduce a project of their peers from week 4. They will also review the documentation of the project and their experiences with reproducing the experiment.
+
 By following the review exercise, each student will look criticaly at the documentation written by others and from the feedback they recieve will feel how their own documentation could have been imrpoved.
 
-Good documentation is mostly an exercise in empathy, and experiencing that feeling is the main goal of the exercise of this lecture. 
 
 ## Embedding/community
 A documentation that is geared for reproducibility can helps:
