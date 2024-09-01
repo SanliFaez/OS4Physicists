@@ -16,7 +16,7 @@ The last lecture of the course is an opportunity to reflect back on what has bee
 The symposium format allows the participants to also create an overall impression of what standpoints their peers have developed.
 
 ## Vision of outcome
-+ Participants choose a concious position of how to practice open science in the next phases of our scientific career.
++ Participants choose a conscious position of how to practice open science in the next phases of our scientific career.
 + Course participants can appreciate the logical reasoning behind choosing the selection of topics that are covered in this course.
 
 ## Embedding/community
@@ -33,10 +33,10 @@ The videos in this symposium are prepared by the participants for the other part
 
 + The reproducibility crisis does (not) matter because ... 
 + Fraud in science, can (not) be fixed with open science.
-+ Transdsiciplinary and interdisciplinary science is an oximoron (essential for solving urgent societal issues).
++ Transdisciplinary and interdisciplinary science is an oximoron (essential for solving urgent societal issues).
 + Open science practices are risky because ...
 + Open science practices are rewarding because ...
-+ Oposition to open science is legitimate because ...
++ Opposition to open science is legitimate because ...
 + Version control is (not) essential for every type of collaborative project.
 + Creative commons licensing shoud be left to lawyers.
 + Readme files are overrated (underrated), because ...
@@ -52,7 +52,7 @@ The videos in this symposium are prepared by the participants for the other part
 + A data-intensive project without a data plan cannot be trusted.
 + Efforts to make articles machine readable is a waste of resources.
 + Forcing authors to make their data available before publication is legitimate (wasting their time).
-+ Maintenance of open source projects should (not) be part of scientis' job description.
++ Maintenance of open source projects should (not) be part of scientists' job description.
 + Open-source hardware cannot be trusted for serious scientific work.
 + Open-source hardware is necessary for making science accessible.
 + Open Science should (not) be a mandatory part of our master program.
@@ -78,7 +78,7 @@ The videos in this symposium are prepared by the participants for the other part
 ## Instructions 
 
 + for creating a pitch
-	1. Beginby outlining the core message or goal of your pitch. Clearly state what issue are you aiming to address and for whom.
+	1. Begin by outlining the core message or goal of your pitch. Clearly state what issue are you aiming to address and for whom.
 	2. Identify the main features, benefits or unique selling points of your project. Highlight what sets it apart from existing solutions or approaches.
 	3. Structure your pitch in a logical and engaging manner. Consider including an attention-grabbing introduction, a concise explanation of the problem or need, a description of your solution or idea and a compelling conclusion.
 	4. Ensure that your pitch is concise, coherent and easy to understand. Avoid jargon or technical terms that may confuse your audience.
