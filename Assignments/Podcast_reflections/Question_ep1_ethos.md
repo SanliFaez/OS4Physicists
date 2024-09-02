@@ -8,7 +8,7 @@ Participants are asked to listen to the podcast and answer some related question
 
 1. What experience Erik mentions as a kickstarter for his praise for open science
 	+ Being invited to a citizen science collaboration
-	+ Extra attention for their ocean streams package after publishing it online with an open license
+	+ Extra attention for their ocean particle tracking package after publishing it online with an open license
 	+ The opprotunity of reaching audiences outside academia 
 2. Where did Bruno Latour perform his research for the book "Laboratory Life"
 	+ Salk Institute, San Diege
