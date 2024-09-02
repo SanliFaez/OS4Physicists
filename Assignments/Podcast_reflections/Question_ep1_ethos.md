@@ -6,7 +6,7 @@ Participants are asked to listen to the podcast and answer some related question
 
 ## Questions for Episode 1: Ethos of Open Science and the Credibility Cycle
 
-1. What experience Erik mentions as a kickstarter for his praise for open science
+1. What experience does Erik mention as a kickstarter for his praise for open science?
 	+ Being invited to a citizen science collaboration
 	+ Extra attention for their ocean particle tracking package after publishing it online with an open license
 	+ The opprotunity of reaching audiences outside academia 
