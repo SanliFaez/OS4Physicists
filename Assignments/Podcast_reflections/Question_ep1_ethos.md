@@ -24,7 +24,7 @@ Participants are asked to listen to the podcast and answer some related question
 	+ Avoiding multi-disciplinary work
 	+ Avoiding team collaborations
 	+ Not publishing negative results
-5. Which of the following is not included in the credibility cycle describe by Latour and Woolgar? 
+5. Which of the following is not included in the credibility cycle described by Latour and Woolgar? 
 	+ Money
 	+ Data
 	+ Societal relevance
