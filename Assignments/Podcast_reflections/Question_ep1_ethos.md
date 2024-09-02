@@ -42,7 +42,7 @@ Participants are asked to listen to the podcast and answer some related question
 	+ Concepts from different disciplines have become relevant because of interdisciplinary research
 	+ Large language models have made it easy to fake reports
 8. How does Sanli summarize the finding of Latour and Woolgar?
-	+ Scientists need personal credibility to get into the upper league of science
-	+ The scientific endeavor cannot be separated from the scientist as a person
-	+ Science is not mainly a pursuit of objective facts but a race for more resources and recognition
+	+ Scientists needed personal credibility to get into the upper league of science
+	+ The scientific endeavor couldn't be separated from the scientist as a person
+	+ Science was not mainly a pursuit of objective facts but a race for more resources and recognition
 	
