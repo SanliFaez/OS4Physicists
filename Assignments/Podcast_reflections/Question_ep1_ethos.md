@@ -37,7 +37,7 @@ Participants are asked to listen to the podcast and answer some related question
 	+ Public school 
 	+ Pragmatic school
 7. Which argument, according to Sanli, shows that even MSc thesis projects must consider the increasing complexity of science?
-	+ Science integrity applies to all researchers, even undergraduate students
+	+ Science integrity applies to all researchers, even (under)graduate students
 	+ The amount of scientific publications produced in recent years is much more than the last decades
 	+ Concepts from different disciplines have become relevant because of interdisciplinary research
 	+ Large language models have made it easy to fake reports
