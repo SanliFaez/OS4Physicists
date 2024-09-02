@@ -36,7 +36,7 @@ Participants are asked to listen to the podcast and answer some related question
 	+ Measurement school 
 	+ Public school 
 	+ Pragmatic school
-7. Which argument, according to Sanli, shows that even master projects must consider the increasing complexity of science?
+7. Which argument, according to Sanli, shows that even MSc thesis projects must consider the increasing complexity of science?
 	+ Science integrity applies to all researchers, even undergraduate students
 	+ The amount of scientific publications produced in recent years is much more than the last decades
 	+ Concepts from different disciplines have become relevant because of interdisciplinary research
