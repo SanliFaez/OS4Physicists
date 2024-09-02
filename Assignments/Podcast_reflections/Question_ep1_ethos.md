@@ -19,7 +19,7 @@ Participants are asked to listen to the podcast and answer some related question
 	+ Universalism
 	+ Disinterestedness
 	+ Organized skepticism
-4. Which example is *not* mentioned by Sanli as a negative side effect of focusing on personal pursuit of credibility
+4. Which example is *not* mentioned by Sanli as a negative side effect of focusing on personal pursuit of credibility?
 	+ Hypercompetition
 	+ Avoiding multi-disciplinary work
 	+ Avoiding team collaborations
