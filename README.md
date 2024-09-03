@@ -21,7 +21,7 @@ These topics are covered during the OS4P lectures:
 1. [Ethos of Open Science](Lectures/Lecture1_OpenScienceEthos.md): How does science work? Why open science? How did we get here?  
 2. [Git for Collaboration](Lectures/Lecture2_GitforCollaboration.md): Setting up a collaborative environment (readme, templates, community rules, version control, licensing and credit)
 3. [Big Research Collaborations](Lectures/Lecture3_BigCollaborations.md): Big science (CERN, VIRGO, IPCC, ...), co-authorship and asking for credit
-4. [Open Innovation](Lectures/Lecture4_OpenInnovation.md): Open design and open hardware; prototyping
+4. [Open Innovation](Lectures/Lecture4_OpenInnovation.md): Open design, Open source hardware, Open collaborations, Prototyping
 5. [Knowledge Discovery](Lecture5_KnowledgeDiscovery.md): AI-based literature exploration
 6. [Public Engagement](Lectures/Lecture6_PublicEngagement.md): Public engagement: story-telling and presentation; activism and trust in scientists
 7. [Reproducibility](Lectures/Lecture7_Reproducibility.md): Reproducibility: documentation for reproducibility (and data storage)
