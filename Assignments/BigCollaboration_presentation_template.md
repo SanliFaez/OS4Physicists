@@ -1,5 +1,5 @@
 # Collaboration: [name of collaboration] 
-contributors to this presentation: insert names
+presentation by: insert names
 ## background 
 ### scientific aims and degree of establishment
 - what are the scientific purposes of this collaboration?
@@ -17,3 +17,5 @@ contributors to this presentation: insert names
 - how do members get credit for their work for the collaboration, e.g. authorship on papers? If no concrete information is available, look at recent papers by the collaboration to see if all authors are in alphabetical order, if their are multiple tiers of authors, or other ways to distinguish contributions. 
 ### open science principles
 - what efforts does the collaboration make to implement open science principles?
+# bibliography
+list the resources for the above information
