@@ -10,6 +10,7 @@
 ## credit structure and open science principles 
 ### organization
 - what is the hierarchical structure of the collaboration to coordinate work and accomplish the goals?
+- (if information is available) how are the various leadership roles selected?
 - is there explicit support / are there opportunities for the development of junior scientists? 
 ### credit structure 
 - how do members get credit for their work for the collaboration, e.g. authorship on papers? If no concrete information is available, look at recent papers by the collaboration to see if all authors are in alphabetical order, if their are multiple tiers of authors, or other ways to distinguish contributions. 
