@@ -16,6 +16,6 @@ presentation by: insert names
 ### credit structure 
 - how do members get credit for their work for the collaboration, e.g. authorship on papers? If no concrete information is available, look at recent papers by the collaboration to see if all authors are in alphabetical order, if their are multiple tiers of authors, or other ways to distinguish contributions. 
 ### open science principles
-- what efforts does the collaboration make to implement open science principles?
+- what open science skills and practices are emphasized in the collaboration?
 # bibliography
 list the resources for the above information
