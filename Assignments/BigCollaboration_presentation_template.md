@@ -1,4 +1,5 @@
 # Collaboration: [name of collaboration] 
+contributors to this presentation: insert names
 ## background 
 ### scientific aims and degree of establishment
 - what are the scientific purposes of this collaboration?
