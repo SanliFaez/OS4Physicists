@@ -29,7 +29,7 @@ The (physics) research community is the main community that should be considered
 + Readme, templates, community rules, licensing and credit
 
 ## Evaluation
-During the four hours of tutorial, the students will go through the thirteen lessons of the [git tutorial](https://git.science.uu.nl/os4p-2023/git-tutorial) and will be asked to complete an exercise to demonstrate their understanding of the material.
+During the four hours of tutorial, the students will go through the fourteen lessons of the [git tutorial](https://app.gitbook.com/o/5yNHsds9ajcZbdxhH1Tv/s/BoAYZtAPxkeTAFgCX534/) and will be asked to complete an exercise to demonstrate their understanding of the material.
 
 ### Assignment description
 Students will form teams of threes and asked to create a branch on GitLab and to use it to collaborate with the two others on a small project where they write a [haiku poem](https://en.wikipedia.org/wiki/Haiku) about Open Science, each contributing one line from their own branch. They then create a Merge Request to merge the file with the haiku into the master branch. The students will use the features of GitLab to manage this assignment.
