@@ -32,7 +32,7 @@ This lecture focuses on large national as well as international collaborations. 
 + Students answer the quiz about the podcast and participate in the discussion of the material covered. 
 + In class, students see the video lecture on big collaborations by Dr. Niels Martens and participate in the discussion of the material. 
 + Students work in small groups to investigate an example of the credit structure, promotion of junior researchers, and open science principles within an example of a large collaboration.
-+ Students give a short presentation of their findings to the class, receive peer feedback, and hear from the others on different examples.  
++ Students give a short presentation of their findings to the group, receive peer feedback, and hear from the others on different examples.  
 
 ### Assignment description
 
