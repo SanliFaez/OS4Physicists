@@ -1,14 +1,14 @@
 # Open Science for Physicists, Lecture 1, The Open Science Ethos
 
-+ Last updated: 25 08 2024
++ Last updated: 08 09 2024
 + Lecturer: @SanliFaez 
 
 #### Contributors: 
 + Erik van Sebille @erikvansebille
-+ Hosein Nemati
++ Hossein Nemati
 
 ## Development goal
-To gather enough knowledge about the recent history of the open science movement in order to appreciate the necessity of taking an informed position and taking the necessary steps towards mastering the needed skills.
+To gather enough knowledge about the origins, motivations and the recent history of the open science movement in order to appreciate the necessity of taking an informed position and taking the necessary steps towards mastering the needed skills.
 
 ![5SchoolsOfOpenScience](../Week1/SchoolsofOpenscience.jpg?raw=true)
 
@@ -26,8 +26,8 @@ Besides that, the international context and access to scientific knowledge will 
 ## Embedding/community
 In this lecture we will discuss the advancement of the open science movement in the international and national context. We will cover the national and university-wide organizational aspects and present some disciplinary positive and negative examples from recent years in the physics community.
 
-## Methods/exercises
-+ The lecturer will present the [slides]() covering:
+## Methods and activities
++ The lecturer will present the [slides](https://slides.com/sanlifaez/os4p-lecture1-whyos) covering:
     - Increasing complexity of scientific challenges
     - Five schools of Open Science 
     - Current state of the open science conversation (NL, UU, Physics) 
@@ -36,9 +36,9 @@ In this lecture we will discuss the advancement of the open science movement in 
     - The credibility cycle and "laboratory life"
 + After the lecture, students are asked to listen to [a podcast episode]() and answer some questions about the content of the podcast. 
 
-## Evaluation and tutorials
+## Evaluation
 + During the introductory lecture, students are asked to collect the terms and concepts they have heard about for the first time, in this lecture. During the breakout discussions, students are asked to reflect on why they have not learned about these concepts before and the barriers they see in realization of open science ideals.
-+ Introduction to Gitlab: subscribing to the course GitLab repository and practicing basics of GitLab workflow (Issues, Pull Requests) for handling the course assignments,
++ Introduction to Gitlab: subscribing to the course GitLab repository and practicing basics of GitLab workflow (Issues, Merge requests) for handling the course assignments,
 + Community building exercise: Writing a Code of Conduct for this course based on [this template](../Resources/CODE_OF_CONDUCT_template.md)
 
 ## Information Sources / Bibliography
