@@ -38,8 +38,8 @@ In this lecture we will discuss the advancement of the open science movement in 
 
 ## Evaluation and tutorials
 + During the introductory lecture, students are asked to collect the terms and concepts they have heard about for the first time, in this lecture. During the breakout discussions, students are asked to reflect on why they have not learned about these concepts before and the barriers they see in realization of open science ideals.
-+ Introduction to Gitlab: subscribing to the course gitlab repository and practicing basics of git for handling the course assignments,
-+ Community building exercise: Writing a Code of Conduct for this course based on [this template](./Resources/CODE_OF_CONDUCT_template.md)
++ Introduction to Gitlab: subscribing to the course GitLab repository and practicing basics of GitLab workflow (Issues, Pull Requests) for handling the course assignments,
++ Community building exercise: Writing a Code of Conduct for this course based on [this template](../Resources/CODE_OF_CONDUCT_template.md)
 
 ## Information Sources / Bibliography
 Information sources listed per topic
