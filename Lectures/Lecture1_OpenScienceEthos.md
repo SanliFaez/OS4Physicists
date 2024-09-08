@@ -16,7 +16,7 @@ To gather enough knowledge about the origins, motivations and the recent history
 Adopting and implementing open science practices in academia has entered mainstream science policy discussions for at least a decade. Despite several national and international efforst, there are still several persistent misrepresentations of the basic open science needs and achievements. 
 In this lecture, student are introduced to various aspects of open science and how people and organizations are getting there from the current state of science. 
 After the introducing different schools of open science students are encouraged to take a point of view on the relation of each classification to their potential future projects and to name consequences of open science for their careers, and for science in general. 
-Besides that, the international context and access to scientific knowledge will be discussed, as well as the opposition to the inacted new research policies in connection with open science and the new system of recognition in academia. 
+Besides that, the international context and especially access to scientific knowledge will be discussed, as well as the opposition to the inacted new research policies in connection with the open science movement and the new system of recognition in academia. 
 
 ## Vision of outcome
 + Course participants are able to engage in an informed discussion about the requirements and achievements of the open science movement
@@ -31,6 +31,7 @@ In this lecture we will discuss the advancement of the open science movement in 
     - Increasing complexity of scientific challenges
     - Five schools of Open Science 
     - Current state of the open science conversation (NL, UU, Physics) 
+    - The connection between open science and research integrity
     - Access to knowledge and academic emancipation
     - Community-Discipline-Employer
     - The credibility cycle and "laboratory life"
