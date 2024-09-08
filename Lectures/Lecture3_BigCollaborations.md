@@ -25,8 +25,8 @@ This lecture focuses on large national as well as international collaborations. 
 ## Methods/exercises
 + In preparation for this lecture, course participants are asked to listen to the podcast and answer the quiz questions
 + In lecture, we watch the first of the two-part video lecture series by Dr Niels Martens on the epistemology of scientific collaborations. [Lecture 1 of this set](https://www.youtube.com/watch?v=M1giIxeLuIg), which is covered in class, discusses examples of 'big science' projects such as CERN and the Next Generation Event Horizon Telescope. [Lecture 2](https://www.youtube.com/watch?v=DRt1uTytWf8), which is left for students to watch on their own, focuses on ways to manage the large number of co-authors that are involved in these projects and policies for giving appropriate credit. 
-+ Course participants work in small groups on the assignment described below, where they investigate the implementation of open science principles and credit structure of a large collaboration. They prepare a short presentation to their peers. 
-+ The groups present their findings to the class and participate in a final discussion on the topic of large collaborations, for which Dr. Niels Martens will also join. 
++ Course participants work in small teams on the assignment described below, where they investigate the implementation of open science principles and credit structure of a large collaboration. They prepare a short presentation to their peers. 
++ The teams present their findings to the class and participate in a final discussion on the topic of large collaborations, for which Dr. Niels Martens will also join. 
 
 ## Evaluation
 + Students answer the quiz about the podcast and participate in the discussion of the material covered. 
