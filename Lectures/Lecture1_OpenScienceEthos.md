@@ -1,9 +1,9 @@
 # Open Science for Physicists, Lecture 1, The Open Science Ethos
 
-+ Last updated: 08 09 2024
++ Last updated: 09 09 2024
 + Lecturer: @SanliFaez 
 
-#### Contributors: 
+#### Contributors:
 + Erik van Sebille @erikvansebille
 + Hossein Nemati
 
@@ -35,32 +35,33 @@ In this lecture we will discuss the advancement of the open science movement in 
     - Access to knowledge and academic emancipation
     - Community-Discipline-Employer
     - The credibility cycle and "laboratory life"
-+ After the lecture, students are asked to listen to [a podcast episode]() and answer some questions about the content of the podcast. 
++ After the lecture, students are asked to listen to [a podcast episode]() and answer some questions about the content of the podcast.
 
 ## Evaluation
 + During the introductory lecture, students are asked to collect the terms and concepts they have heard about for the first time, in this lecture. During the breakout discussions, students are asked to reflect on why they have not learned about these concepts before and the barriers they see in realization of open science ideals.
 + Introduction to Gitlab: subscribing to the course GitLab repository and practicing basics of GitLab workflow (Issues, Merge requests) for handling the course assignments,
 + Community building exercise: Writing a Code of Conduct for this course based on [this template](../Resources/CODE_OF_CONDUCT_template.md)
 
+
 ## Information Sources / Bibliography
 Information sources listed per topic
 
 + Five schools of Open Science
     + https://open-science.cwts.nl/introduction/recognition-and-rewards-and-responsible-research-assessment/open-science-policy-making
-    + https://doi.org/10.1007/978-3-319-00026-8_2 
+    + https://doi.org/10.1007/978-3-319-00026-8_2
 + Current state of the conversation (NL, UU, Physics)
-    + https://www.uu.nl/onderzoek/open-science 
+    + https://www.uu.nl/onderzoek/open-science
 + Access and Emancipation (A link with week 8 can be made here)
     + https://www.rug.nl/library/open-access/blog/open-science-practices-in-different-disciplines-an-interview-with-prof-jan-willem-romeijn-and?lang=en
-    + https://www.openaccess.nl/nl/creative-commons-licenties 
+    + https://www.openaccess.nl/nl/creative-commons-licenties
     + https://www.openaccess.nl/en/your-role/student
-    + https://www.cos.io/blog/public-goods-infrastructure-preprints-and-innovation-scholarly-communication 
+    + https://www.cos.io/blog/public-goods-infrastructure-preprints-and-innovation-scholarly-communication
     + https://www.nature.com/articles/d41586-021-00883-6
 + Community-Discipline-Employer
-    + https://www.osc-nl.com/ 
-    + https://www.fosteropenscience.eu/learning/best-practice-in-open-research/#/id/5abe17ffdd1827131b90e618 
+    + https://www.osc-nl.com/
+    + https://www.fosteropenscience.eu/learning/best-practice-in-open-research/#/id/5abe17ffdd1827131b90e618
 + Laboratory life
-    + https://www.apa.org/monitor/2021/11/career-open-science 
+    + https://www.apa.org/monitor/2021/11/career-open-science
     + [Easing Into Open Science: A Guide for Graduate Students and Their Advisors](https://doi.org/10.1525/collabra.18684)
 + International context
     + https://science.nasa.gov/open-science
@@ -68,7 +69,7 @@ Information sources listed per topic
     + https://peerj.com/preprints/2689v1/
 + Trans-disciplinary and interdisciplinary science
     + [Transdisciplinarity as a discipline and a way of being: complementarities and creative tensions](https://doi.org/10.1057/s41599-020-00598-5)
-    + https://www.uu.nl/en/research/transdisciplinary-field-guide/get-started/why-transdisciplinary-research 
+    + https://www.uu.nl/en/research/transdisciplinary-field-guide/get-started/why-transdisciplinary-research
 + Other
-    + https://www.unesco.org/en/natural-sciences/open-science 
-    + https://elifesciences.org/articles/16800 
+    + https://www.unesco.org/en/natural-sciences/open-science
+    + https://elifesciences.org/articles/16800
