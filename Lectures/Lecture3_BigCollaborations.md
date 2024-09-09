@@ -36,7 +36,7 @@ This lecture focuses on large national as well as international collaborations. 
 
 ### Assignment description
 
-Students work in small groups to investigate the credit structure of one of the large collaborations from the list below, which they will be assigned. They prepare a short presentation using the [template](https://github.com/SanliFaez/OS4Physicists/blob/thinderer-patch-1/Assignments/BigCollaboration_presentation_template.md). The investigation and presentation covers the following points:
+Students work in small teams to investigate the credit structure of one of the large collaborations from the list below, which they will be assigned. They prepare a short presentation using the [template](https://github.com/SanliFaez/OS4Physicists/blob/thinderer-patch-1/Assignments/BigCollaboration_presentation_template.md). The investigation and presentation covers the following points:
 
 1. A brief introduction to the collaboration, its scientific aims, when it was established, and its membership. 
 2. An assessment of how credit structures are implemented and how junior researchers can grow within this big collaboration and gain visibility in the field.
