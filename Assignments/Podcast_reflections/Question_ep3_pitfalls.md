@@ -43,7 +43,3 @@ Participants are asked to listen to the podcast and answer some related question
 	+ Transparency
 	+ Both of the above
 	+ None of the above
-10. Does engaging in open science practices require creating new jobs in academia?
-	+ Yes
-	+ No
-	
