@@ -27,7 +27,7 @@
 + Reporting on their progress to the TA and the course coordinators. 
 
 #### TAs are asked to:  
-+ Regularly monitor the progress of the project (8 sessions, 30 minutes each). 
++ Regularly monitor the progress of the project or assignment. 
 + Provide advice on project steps or suggest an expert or reading materials when needed. 
 + Provide feedback to the students to consider. 
 + Provide feedback to the course coordinator at the end of the course.

@@ -1,4 +1,4 @@
-# CODE OF CONDUCT 2023
+# CODE OF CONDUCT 2024
 
 This code of conduct will been decided by cohort participants in Open Science for Physicists (NS-PH500M) and is enacted from DDMMYYYY.
 The procedure is based on [this exercise by Aurelia Moser](http://aureliamoser.com/aaas-guides/conduct/index.html)  
