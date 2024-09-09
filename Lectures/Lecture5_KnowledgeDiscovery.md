@@ -26,13 +26,12 @@ The topics of this lecture pertain mainly to the research process carried out by
 + homework assignment on investigating example cases of fraud in physics
   
 ## Evaluation
-- students work with the ASreview tool https://github.com/asreview/ to look up information on the topic of their master thesis
-- students work on the homework assignment on a case study of fraud in physics
+- students start their work on the homework assignment to report on a case study of fraud in physics
+- the assignment is longer than the usual tutorial exercises and students are expected to complete it at home
+- there will be a peer-evaluation of the report 
 
 ### Assignment description
-Install the ASreview tool https://github.com/asreview/ . Use it to compile relevant papers for your master thesis topic and compare with those you find by other means, e.g. a literature search using google scholar https://scholar.google.com or citations to a baseline paper with inspire https://inspirehep.net 
-
-The homework assignment on cases of fraud in physics is described separately in [link to file]
+The homework assignment on cases of fraud in physics is described separately in [link to file]. It is due on Oct. 10. 
 
 ## Information Sources / Bibliography
 - ASreview tool for systematic reviews https://github.com/asreview/ 
