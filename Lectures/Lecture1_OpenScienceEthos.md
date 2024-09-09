@@ -1,22 +1,22 @@
 # Open Science for Physicists, Lecture 1, The Open Science Ethos
 
-+ Last updated: 25 08 2024
-+ Lecturer: @SanliFaez
++ Last updated: 09 09 2024
++ Lecturer: @SanliFaez 
 
 #### Contributors:
 + Erik van Sebille @erikvansebille
-+ Hosein Nemati
++ Hossein Nemati
 
 ## Development goal
-To gather enough knowledge about the recent history of the open science movement in order to appreciate the necessity of taking an informed position and taking the necessary steps towards mastering the needed skills.
+To gather enough knowledge about the origins, motivations and the recent history of the open science movement in order to appreciate the necessity of taking an informed position and taking the necessary steps towards mastering the needed skills.
 
 ![5SchoolsOfOpenScience](../Week1/SchoolsofOpenscience.jpg?raw=true)
 
-## Motivation: Why open science, how did we get here?
-Adopting and implementing open science practices in academia has entered mainstream science policy discussions for at least a decade. Despite several national and international efforst, there are still several persistent misrepresentations of the basic open science needs and achievements.
-In this lecture, student are introduced to various aspects of open science and how people and organizations are getting there from the current state of science.
-After the introducing different schools of open science students are encouraged to take a point of view on the relation of each classification to their potential future projects and to name consequences of open science for their careers, and for science in general.
-Besides that, the international context and access to scientific knowledge will be discussed, as well as the opposition to the inacted new research policies in connection with open science and the new system of recognition in academia.
+## Motivation: Why open science, how did we get here? 
+Adopting and implementing open science practices in academia has entered mainstream science policy discussions for at least a decade. Despite several national and international efforst, there are still several persistent misrepresentations of the basic open science needs and achievements. 
+In this lecture, student are introduced to various aspects of open science and how people and organizations are getting there from the current state of science. 
+After the introducing different schools of open science students are encouraged to take a point of view on the relation of each classification to their potential future projects and to name consequences of open science for their careers, and for science in general. 
+Besides that, the international context and especially access to scientific knowledge will be discussed, as well as the opposition to the inacted new research policies in connection with the open science movement and the new system of recognition in academia. 
 
 ## Vision of outcome
 + Course participants are able to engage in an informed discussion about the requirements and achievements of the open science movement
@@ -26,20 +26,22 @@ Besides that, the international context and access to scientific knowledge will 
 ## Embedding/community
 In this lecture we will discuss the advancement of the open science movement in the international and national context. We will cover the national and university-wide organizational aspects and present some disciplinary positive and negative examples from recent years in the physics community.
 
-## Methods/exercises
-+ The lecturer will present the [slides]() covering:
+## Methods and activities
++ The lecturer will present the [slides](https://slides.com/sanlifaez/os4p-lecture1-whyos) covering:
     - Increasing complexity of scientific challenges
-    - Five schools of Open Science
-    - Current state of the open science conversation (NL, UU, Physics)
+    - Five schools of Open Science 
+    - Current state of the open science conversation (NL, UU, Physics) 
+    - The connection between open science and research integrity
     - Access to knowledge and academic emancipation
     - Community-Discipline-Employer
     - The credibility cycle and "laboratory life"
 + After the lecture, students are asked to listen to [a podcast episode]() and answer some questions about the content of the podcast.
 
-## Evaluation and tutorials
+## Evaluation
 + During the introductory lecture, students are asked to collect the terms and concepts they have heard about for the first time, in this lecture. During the breakout discussions, students are asked to reflect on why they have not learned about these concepts before and the barriers they see in realization of open science ideals.
-+ Introduction to Gitlab: subscribing to the course GitLab repository and practicing basics of GitLab workflow (Issues, Pull Requests) for handling the course assignments,
-+ Community building exercise: Writing a Code of Conduct in Markdown for this course based on [this template](../Resources/CODE_OF_CONDUCT_template.md)
++ Introduction to Gitlab: subscribing to the course GitLab repository and practicing basics of GitLab workflow (Issues, Merge requests) for handling the course assignments,
++ Community building exercise: Writing a Code of Conduct for this course based on [this template](../Resources/CODE_OF_CONDUCT_template.md)
+
 
 ## Information Sources / Bibliography
 Information sources listed per topic
