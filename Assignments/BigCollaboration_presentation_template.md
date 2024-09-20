@@ -1,5 +1,8 @@
 # Collaboration: [name of collaboration] 
 presentation by: insert names
+
+credit and dissensus: insert decisions made based on the [credit checklist](https://github.com/SanliFaez/OS4Physicists/blob/main/Resources/credit_checklist.md) 
+
 ## background 
 ### scientific aims and degree of establishment
 - what are the scientific purposes of this collaboration?
